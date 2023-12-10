@@ -1,6 +1,5 @@
 {
 "spider": "./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-"spider": "https://agit.ai/cyl518/yl/raw/branch/master/pytv23-6-13.jar",
   "sites": [
     {
       "key": "zy_新浪",
