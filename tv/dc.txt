@@ -1,5 +1,113 @@
 {
     "urls": [
+        {
+            "url": "https://jihulab.com/ttvv/4k/-/raw/main/tongyong.json",
+            "name": "呕吼"
+        },
+        {
+            "url": "http://rihou.cc:61/天天开心",
+            "name": "日后"
+        },
+        {
+            "url": "https://agit.ai/cyl518/yl/raw/branch/master/pytv.json",
+            "name": "胖鸭"
+        },
+        {
+            "url": "http://xhww.fun:63/小米/DEMO.json",
+            "name": "小米EMO"
+        },
+        {
+            "url": "https://jihulab.com/cc7734437/svip/-/raw/main/1314.json",
+            "name": "酷玩VIP"
+        },
+        {
+            "url": "http://cdn.qiaoji8.com/tvbox.json",
+            "name": "盒迷"
+        },
+        {
+            "url": "https://www.ywsj.cf/upload/2023/10/yyzq4k.json",
+            "name": "4K路线"
+        },
+        {
+            "url": "https://agit.ai/relax/adcc/raw/branch/master/tvbox.json",
+            "name": "技巧"
+        },
+        {
+            "url": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/XC.json",
+            "name": "南风"
+        },
+        {
+            "url": "http://tv.nxog.top/m/111.php?ou=%E6%AC%A7%E6%AD%8C&mz=index2&xl=&jar=index2",
+            "name": "龙门"
+        },
+        {
+            "url": "https://agit.ai/n/b/raw/branch/a/b/c.json",
+            "name": "影迷"
+        },
+        {
+            "url": "https://jihulab.com/52013142/kw/-/raw/main/小盒酷玩.json",
+            "name": "何杰"
+        },
+        {
+            "url": "https://www.lltv8.top",
+            "name": "猎狼"
+        },
+        {
+            "url": "https://tvbox.cainisi.cf/",
+            "name": "砂锅"
+        },
+        {
+            "url": "https://jihulab.com/ygbh1/box/-/raw/main/月光宝盒",
+            "name": "宝盒"
+        },
+        {
+            "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json",
+            "name": "高清4K"
+        },
+        {
+            "url": "http://fan.xxooo.cf/tv",
+            "name": "饭太硬"
+        },
+        {
+            "url": "https://agit.ai/guot54/ygbh/raw/branch/master/xpg.json",
+            "name": "小苹果"
+        },
+        {
+            "url": "https://www.emokjy.com/emo/emokj",
+            "name": "EMO"
+        },
+        {
+            "url": "https://jihulab.com/xhkw1/kw/-/raw/main/小盒酷玩.json",
+            "name": "小盒酷玩"
+        },
+        {
+            "url": "https://agit.ai/W-TV/XM/raw/branch/master/XM.json",
+            "name": "免软"
+        },
+        {
+            "url": "https://freed.yuanhsing.cf/TVBox/meowcf.json",
+            "name": "元兴"
+        },
+        {
+            "url": "https://agit.ai/ddx/TVBox/raw/branch/master/catbox.json",
+            "name": "catbox"
+        },
+        {
+            "url": "http://cdn.facehappy.cn/tv4k.json",
+            "name": "影迷"
+        },
+        {
+            "url": "https://jihulab.com/dimaston1/4k/-/raw/main/tongyong.json",
+            "name": "影迷2"
+        },
+        {
+            "url": "https://ghproxy.com/raw.githubusercontent.com/gaotianliuyun/gao/master/js.json",
+            "name": "高山流云"
+        },
+        {
+            "url": "https://ghproxy.com/https://raw.githubusercontent.com/XiaoYiChaHang/tvbox/main/ysj.json",
+            "name": "荷城茶秀"
+        },
          {
             "url": "https://agit.ai/30215429/TVBox/raw/branch/master/sft.txt",
             "name": "☪️爽翻天主线路"
