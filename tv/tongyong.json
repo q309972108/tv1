@@ -58,7 +58,78 @@
 {"key": "七新影视","name":"🎦七新┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/qixinyingshi.json"},
 {"key":"热播之家","name":"🎦热播┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/rebozj.json"},
 {"key": "csp_XYQBiu_骚火VIP","name": "🎦骚火┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/shyyVIP.json"},
+    {
+      "key": "花海",
+      "name": "🌼花海┃影视",
+      "api": "csp_AppYs",
+      "jar": "http://小盒酷玩.fun:67/禁止贩卖",
+      "type": 3,
+      "playerType": "2",
+      "ext": "http://app.huahai.pro/ruifenglb_api.php/v1.vod"
+    },
+    {
+      "key": "萌米",
+      "name": "🌮萌米┃TV",
+      "type": 3,
+      "searchable": 1,
+      "quickSearch": 1,
+      "api": "csp_Appto",
+      "jar": "http://小盒酷玩.fun:75/禁止贩卖",
+      "playerType": 2,
+      "ext": {
+        "key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ",
+        "ic": "",
+        "token": "",
+        "url": "http://app.mervod.com:9527",
+        "configurl": "/addons/apptov4/app.php/v1/config/get?p=android",
+        "api": "/addons/apptov4/app.php/v1/"
+      }
+    },
      {
+      "key": "csp_达龟",
+      "name": "🐢达达龟┃影视",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://小盒酷玩.fun:74/禁止贩卖",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://xn--yet226clhctt4b.fun:66/json/达达龟.json"
+    },
+    {
+      "key": "牛牛",
+      "name": "🐂牛牛┃TV",
+      "type": 3,
+      "api": "csp_DDMJ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "ilH3/t4mr1SM09PvschTH1LOZQVQKtsm4MVV71I4Lwh63Oc97KaPnM2ZzZRvsQpckmVsMew5wnfhBUdHmy8YP+wok44dwqClEg0/PhTrtSCTOBGoOIf5QmbrPwtmGCBSsfWb2JZ6jrJ05gANATBhTNcmf3lFV45rF6ahsGTbeiIZTRVQM4TVfHB6CJI8QNfc88sKDjYjvMC7XhYNrmebd3ZIA++k361VGPv0jlGOHS8iUA6ywLlBgHp+jl84MIJcLvmzqN5OfD04xGXE/nNTqlf6CG83cX27GZ2036L7ZVdSiI9/dI0vmuQUvXXaA/OqH2xqDA1Y4ltd0fZoH7/x9fY+gg1nsxgDTalCQJL8lkAOdvft2m+QKyQB4gXrcWrH+eUOaScueRXlKSTGer3OR1ZyZmSgd/BvqSukXeaUmDPDJsERNe80PFW6B7xqbGQz5l9jNsxgwVkjque5eNYUuvyc3YK3N09bR1hMWw3aUpLldwBMLDNgCgH/YYBjEqAfXjooSZxI3nPReKeRyOnUmpoqbXE045w6A8nrFsiJ9jZaDQoRf6u9g8xNlXM11v5klfzrhT+0cHWdhIME4cn4Fq83p1NzlIZ808fXP79xmnqQdeNbMGKRELseJSwV8hfx+e6yVN5oOrRrVjD2rCDPSYBZh25Pp+5VH0k6NF3N6JwI=",
+      "jar": "http://小盒酷玩.fun:76/禁止贩卖"
+    },
+ {
+      "key": "云播",
+      "name": "☁️云播┃TV",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "jar": "http://小盒酷玩.fun:74/禁止贩卖",
+      "ext": "http://xn--yet226clhctt4b.fun:66/json/云播.json"
+    },
+   {
+      "key": "横版影院",
+      "name": "📺良子┃短剧",
+      "type": 1,
+      "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "短剧"
+      ]
+    },
+
+{
       "key": "鑫鑫影视",
       "name": "🎦鑫鑫┃秒播",
       "type": 3,
@@ -977,7 +1048,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://jihulab.com/ttvv/tv/-/raw/main/tv.txt",
+      "url": "https://gitee.com/q309972108/tv/raw/master/tv/zb.txt",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
