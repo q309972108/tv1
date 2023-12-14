@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "zy_新浪",
-      "name": "🧙呕吼影视┃秒播有广",
+      "name": "🧙呕吼影视┃有广",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -32,7 +32,7 @@
       },
           {
       "key": "csp_Nmys",
-      "name": "💤优先使用┃极速有广",
+      "name": "🧙柠檬┃有广",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -41,28 +41,28 @@
       "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/json/nmys.json",
       "jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
     },
-    {"key": "海星影视","name": "🧙海星┃秒播有广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/haixingys.json"},
-{"key": "A8影视","name": "🧙A8┃秒播有广","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
-{"key":"csp_101","name":"🎦101影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/101.json"},
-{"key":"光棍影视","name":"🎦光棍┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/guangun.json"},
-{"key":"csp_五五","name":"🎦五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
-{"key":"csp_xBPQ_奇优","name":"🎦奇优┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/qiyou.json"},
-{"key":"搜狗","name":"🎦搜狗┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
-{"key":"芒果","name":"🎦芒果┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
-{"key":"csp_007","name":"🎦零零七┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/007.json"},
-{"key": "开心果","name": "🎦开心果┃秒播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
-{"key": "O先生","name": "🎦O先生┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
-{"key":"影视工厂","name":"🎦工厂┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/yingshigongchang.json"},
-{"key":"达达龟","name":"🎦达龟┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
-{"key": "csp_黑狐","name": "🎦黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
-{"key":"七年影视","name":"🎦七年┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./lib/qinian.json"},
-{"key":"360影视","name":"🎦360影视┃秒播","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
-{"key": "七新影视","name":"🎦七新┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/qixinyingshi.json"},
-{"key":"热播之家","name":"🎦热播┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/rebozj.json"},
-{"key": "csp_XYQBiu_骚火VIP","name": "🎦骚火┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/shyyVIP.json"},
+    {"key": "海星影视","name": "🧙海星┃有广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/haixingys.json"},
+{"key": "A8影视","name": "🧙A8┃有广","type": 3,"api": "csp_AppYs","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://aaa.a8ys.xyz/ruifenglb_api.php/v1.vod"},
+{"key":"csp_101","name":"✈️101影视┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/101.json"},
+{"key":"光棍影视","name":"✈️光棍┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/guangun.json"},
+{"key":"csp_五五","name":"✈️五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
+{"key":"csp_xBPQ_奇优","name":"✈️奇优┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/qiyou.json"},
+{"key":"搜狗","name":"✈️搜狗┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/caigou.js"},
+{"key":"芒果","name":"✈️芒果┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
+{"key":"csp_007","name":"✈️零零七┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/007.json"},
+{"key": "开心果","name": "🚀开心果┃秒播","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
+{"key": "O先生","name": "✈️O先生┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
+{"key":"影视工厂","name":"✈️工厂┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/yingshigongchang.json"},
+{"key":"达达龟","name":"✈️达龟┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
+{"key": "csp_黑狐","name": "✈️黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
+{"key":"七年影视","name":"✈️七年┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./lib/qinian.json"},
+{"key":"360影视","name":"🚀360影视┃秒播","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},
+{"key": "七新影视","name":"✈️七新┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/qixinyingshi.json"},
+{"key":"热播之家","name":"✈️热播┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/rebozj.json"},
+{"key": "csp_XYQBiu_骚火VIP","name": "✈️骚火┃秒播","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/shyyVIP.json"},
     {
       "key": "天天",
-      "name": "💤天天┃秒播",
+      "name": "🚀天天┃秒播",
       "type": 3,
       "api": "csp_TTian",
       "playerType": 1,
@@ -70,23 +70,15 @@
     },
         {
       "key": "蝴蝶",
-      "name": "💤蝴蝶┃秒播",
+      "name": "🚀蝴蝶┃秒播",
       "type": 3,
       "api": "csp_Hudie",
       "playerType": 2,
       "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
     },
      {
-      "key": "极光",
-      "name": "💤极光┃秒播",
-      "type": 3,
-      "api": "csp_Skapp",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"
-    },
-     {
       "key": "樱花",
-      "name": "💤樱花┃秒播",
+      "name": "🚀樱花┃秒播",
       "type": 3,
       "api": "csp_qiao",
       "searchable": 1,
@@ -97,7 +89,7 @@
     },
      {
       "key": "超神",
-      "name": "💤超神┃秒播",
+      "name": "🚀超神┃秒播",
       "type": 3,
       "api": "csp_qiao",
       "searchable": 1,
@@ -108,7 +100,7 @@
     },
      {
       "key": "一起看 ",
-      "name": "💤一起┃秒播",
+      "name": "✈️一起┃秒播",
       "type": 3,
       "api": "csp_YQKan",
       "searchable": 1,
@@ -117,7 +109,7 @@
     },
     {
       "key": "萌米",
-      "name": "💤优先使用┃极速",
+      "name": "🚀萌米┃极速",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
@@ -135,7 +127,7 @@
     },
      {
       "key": "csp_达龟",
-      "name": "💤达龟┃秒播",
+      "name": "✈️达龟┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://小盒酷玩.fun:74/禁止贩卖",
@@ -146,7 +138,7 @@
     },
     {
       "key": "牛牛",
-      "name": "💤牛牛┃秒播",
+      "name": "✈️牛牛┃秒播",
       "type": 3,
       "api": "csp_DDMJ",
       "searchable": 1,
@@ -158,7 +150,7 @@
     },
  {
       "key": "云播",
-      "name": "☁️云播┃秒播",
+      "name": "✈️云播┃秒播",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://小盒酷玩.fun:74/禁止贩卖",
@@ -166,7 +158,7 @@
     },
    {
       "key": "横版影院",
-      "name": "💤良子┃秒播",
+      "name": "✈️良子┃秒播",
       "type": 1,
       "api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list",
       "searchable": 1,
@@ -179,7 +171,7 @@
 
 {
       "key": "鑫鑫影视",
-      "name": "🎦鑫鑫┃秒播",
+      "name": "✈️鑫鑫┃秒播",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -189,7 +181,7 @@
     },
      {
       "key": "腾讯资源",
-      "name": "️🎦龙龙┃秒播",
+      "name": "️✈️龙龙┃秒播",
       "type": 1,
       "api": "http://playersll.gaoxin155.com.cn/api.php/provide/vod/from/qq/?at/xml/",
       "playUrl": "",
@@ -204,7 +196,7 @@
     },
  {
       "key": "小小",
-      "name": "🎦小小┃秒播",
+      "name": "✈️小小┃秒播",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
@@ -224,14 +216,14 @@
     },
         {
       "key": "apv2_瑞丰",
-      "name": "🧙瑞丰┃秒播有广",
+      "name": "✈️瑞丰┃有广",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
       "key": "影图资源",
-      "name": "🧙影图┃秒播有广",
+      "name": "✈️影图┃有广",
       "type": 1,
       "api": "https://cj.vodimg.top/api.php/provide/vod/",
       "searchable": 1,
@@ -239,7 +231,7 @@
     },
     {
       "key": "csp_77",
-      "name": "🧙七七┃秒播有广",
+      "name": "✈️七七┃秒播有广",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -248,7 +240,7 @@
     },
     {
       "key": "虎牙",
-      "name": "🧙虎牙┃秒播有广",
+      "name": "✈️虎牙┃有广",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
@@ -281,7 +273,7 @@
     },
         {
       "key": "橘子",
-      "name": "🧙橘子┃秒播有广",
+      "name": "✈️橘子┃有广",
       "type": 3,
       "api": "csp_AppMao",
       "searchable": 1,
@@ -291,7 +283,7 @@
     },
      {
       "key": "csp_XBP南坊",
-      "name": "🧙南坊┃秒播有广",
+      "name": "✈️南坊┃有广",
       "type": 3,
       "api": "csp_XBPQ",
       "jar": "http://xhww.fun:63/小米/暴脾气.jar;md5;bb155c3f0133bbce4756ad52003f5968",
@@ -327,7 +319,7 @@
     },
      {
       "key": "csp_XYQHiker_乐猪影视",
-      "name": "🧙乐猪┃秒播有广",
+      "name": "✈️乐猪┃有广",
       "type": 3,
       "api": "csp_XYQHiker",
       "searchable": 1,
@@ -339,7 +331,7 @@
     
         {
       "key": "天空",
-      "name": "️♻️业余|天空采集",
+      "name": "️♻️业余|天空",
       "type": 1,
       "api": "https://api.tiankongapi.com/api.php/provide/vod/",
       "playUrl": "",
@@ -366,7 +358,7 @@
  
         {
       "key": "Ppxzy",
-      "name": "🧙皮皮虾|秒播有广",
+      "name": "✈️皮皮虾|有广",
       "type": 3,
       "api": "csp_Ppxzy",
       "quickSearch": 1,
@@ -412,7 +404,7 @@
     },
         {
       "key": "TVB云播",
-      "name": "🧙TVB┃秒播有广",
+      "name": "✈️TVB┃有广",
       "type": 3,
       "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
       "searchable": 1,
@@ -426,10 +418,9 @@
       "api": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
       "ext": "https://ghproxy.com/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/人人影视.js"
     },
-    {"key":"看看视频","name":"看看视频","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0},
      {
       "key": "js_农民",
-      "name": "👨‍🌾┃农民┃影视",
+      "name": "✈️农民┃秒播",
       "type": 3,
       "api": "https://jihulab.com/dimaston1/4k/-/raw/main/libs/drpy2.min.js",
       "searchable": 1,
