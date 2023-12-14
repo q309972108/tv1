@@ -216,14 +216,14 @@
     },
         {
       "key": "apv2_瑞丰",
-      "name": "✈️瑞丰┃有广",
+      "name": "🧙瑞丰┃有广",
       "type": 3,
       "api": "csp_AppYsV2",
       "ext": "http://www.miniku.cc/xgapp.php/v2/"
     },
     {
       "key": "影图资源",
-      "name": "✈️影图┃有广",
+      "name": "🧙影图┃有广",
       "type": 1,
       "api": "https://cj.vodimg.top/api.php/provide/vod/",
       "searchable": 1,
@@ -231,7 +231,7 @@
     },
     {
       "key": "csp_77",
-      "name": "✈️七七┃秒播有广",
+      "name": "🧙七七┃秒播有广",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -240,7 +240,7 @@
     },
     {
       "key": "虎牙",
-      "name": "✈️虎牙┃有广",
+      "name": "🧙虎牙┃有广",
       "type": 1,
       "api": "https://www.huyaapi.com/api.php/provide/vod/from/hym3u8",
       "searchable": 1,
