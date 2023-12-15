@@ -223,17 +223,6 @@
         "短剧"
       ]
     },
-
-{
-      "key": "鑫鑫影视",
-      "name": "✈️鑫鑫┃秒播",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://yingszj.xn--654a.cc/api.php/app/"
-    },
      {
       "key": "腾讯资源",
       "name": "️✈️龙龙┃秒播",
