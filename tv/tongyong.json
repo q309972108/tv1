@@ -3,6 +3,7 @@
  "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89d697916e9b66cf6b9bfd81981f274d",
 "spider": "http://cdn.qiaoji8.com/fix1209.jar;md5;3021d0a39a4959c487437ccd2bdba75b",
 "spider":"./jar/spider.jar",
+"spider": ".jar/pytv.jar",
   "sites": [
     {
       "key": "zy_新浪",
@@ -31,6 +32,17 @@
         "体育"
       ]
       },
+      {
+      "key": "csp_Nmys",
+      "name": "🚀农民┃秒播",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "./lib/nmys.json",
+      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+    },
       {"key":"畅梦","name":"🚀畅梦┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
 {"key":"csp_五五","name":"🚀五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
 {"key":"555影视","name":"🚀555┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
