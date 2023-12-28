@@ -39,7 +39,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://gitee.com/q309972108/tv/raw/master/tv/lib/nmys.json"
+      "ext": "https://gitee.com/q309972108/tv/raw/master/tv/lib/nongmin.json"
     },
       {"key":"畅梦","name":"🚀畅梦┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
 {"key":"csp_五五","name":"🚀五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
