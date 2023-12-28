@@ -34,7 +34,7 @@
       },
       {
       "key": "csp_Nmys",
-      "name": "🚀推荐先用🚀",
+      "name": "🚀推荐一",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
@@ -43,7 +43,7 @@
       "ext": "./lib/nmys.json",
       "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
     },
-      {"key":"畅梦","name":"🚀畅梦┃秒播","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
+      {"key":"畅梦","name":"🚀推荐四┃畅梦","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
 {"key":"csp_五五","name":"🚀五五┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
 {"key":"555影视","name":"🚀555┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
 {"key":"348影视","name":"🚀348┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/348.json"},
@@ -151,7 +151,7 @@
     },
      {
       "key": "赞赞",
-      "name": "✈️赞赞┃秒播",
+      "name": "🚀推荐二┃赞赞",
       "type": 3,
       "api": "https://fanty.run.goorm.site/ext/js/drpy2.min.js",
       "ext": "https://agit.ai/xiaohewanwan/TVBox/raw/branch/master/js/zanzan.js",
@@ -187,7 +187,7 @@
     },
     {
       "key": "萌米",
-      "name": "🚀萌米┃极速",
+      "name": "🚀推荐三┃萌米",
       "type": 3,
       "searchable": 1,
       "quickSearch": 1,
