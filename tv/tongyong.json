@@ -1,4 +1,5 @@
 {
+"spider": "./jar/HeChengChaXiu.jar",
 "spider": "./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89d697916e9b66cf6b9bfd81981f274d",
 "spider":"./jar/spider.jar",
