@@ -32,7 +32,8 @@
         "泰剧",
         "体育"
       ]
-       {
+      },
+             {
       "key": "csp_AppMr",
       "name": "🚀推荐┃明明",
       "type": 3,
@@ -41,7 +42,16 @@
       "quickSearch": 1,
       "filterable": 1
     },
-      },
+     {
+      "key": "csp_YaYa",
+      "name": "🦆‖鸭鸭影视",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://yayayaaapp.ynf.icu/api.php/app/"
+    },
       {"key":"Wogg","name":"🚀推荐┃玩偶","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
       {"key":"天天","name":"🚀推荐┃天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
       {"key":"巧技一","name":"🚀推荐┃技巧1","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
