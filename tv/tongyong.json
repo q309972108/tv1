@@ -4,6 +4,7 @@
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89d697916e9b66cf6b9bfd81981f274d",
 "spider":"./jar/spider.jar",
 "spider": ".jar/pytv.jar",
+"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"./jar/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
   "sites": [
     {
@@ -94,6 +95,20 @@
       "changeable": 1,
       "ext": "https://drpy.cainisi.cf/js/人人影视.js",
       "jar": "https://tvbox.cainisi.cf/jar/fty1113.jar"
+    },
+     {
+      "key": "drpy_js_奇优影院",
+      "name": "🚀推荐┃奇优",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/奇优影院.js"
+    },
+    {
+      "key": "drpy_js_胖虎影视",
+      "name": "🚀推荐┃胖虎",
+      "type": 3,
+      "api": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/libs/drpy2.min.js",
+      "ext": "https://ghproxy.net/https://raw.githubusercontent.com/hjdhnx/dr_py/main/js/胖虎.js"
     },
     {"key":"csp_AppMr","name":"🚀推荐┃明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"},//明明
       {"key":"畅梦","name":"🚀推荐┃畅梦","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js"},
