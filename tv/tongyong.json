@@ -61,7 +61,7 @@
       {"key":"看看","name":"🚀推荐┃看看","type":3,"api":"csp_KanKan","searchable":1,"quickSearch":1,"filterable":0},
       {"key":"南瓜影视","name":"🚀推荐┃南瓜2","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js"},
       {"key": "六度TV","name": "🚀推荐┃六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js"},
-       {"key": "咕噜[V2]","name": "咕噜┃影视","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/咕噜[V2].js"},
+       {"key": "咕噜[V2]","name": "🧙咕噜┃有广","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/咕噜[V2].js"},
       {
       "key": "csp_Nmys",
       "name": "🚀推荐┃农民",
