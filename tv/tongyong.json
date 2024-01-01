@@ -6,11 +6,11 @@
 "spider": "https://download.kstore.space/download/2883/nzk/nzk0722.jar",
 "spider": "https://d.kstore.space/download/4679/1228.jar",
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
- "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
- "spider": "./fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242",
- "spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",//春盈备用有冲突
+"spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
 "spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8c6fadafee20b3780e602f8f52c7cc92",//神秘
 "spider": ".jar/pytv.jar",
+"spider": "./fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242",
+"spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",//春盈备用有冲突
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"./jar/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
   "sites": [
@@ -162,17 +162,6 @@
       "filterable": 1,
       "ext": "https://download.kstore.space/download/2883/nzk/量子资源网.json"
     },
-     {
-      "key": "csp_TVB",
-      "name": "🚀推荐┃TVB",
-      "type": 3,
-      "api": "csp_XBPQ",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/TVB云播.json"
-    },
-
      {
       "key": "csp_XYQHiker_奇趣影视",
       "name": "🚀推荐┃奇趣",
@@ -662,15 +651,6 @@
       "changeable": 1
     },
   {"key": "AppYs_南瓜","name": "🚀推荐┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
-    },
-        {
-      "key": "TVB云播",
-      "name": "✈️TVB┃有广",
-      "type": 3,
-      "api": "https://drpy.cainisi.cf/libs/drpy2.min.js",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "https://drpy.cainisi.cf/js/TVB云播.js"
     },
      {
       "key": "drpy_js_人人影视",
