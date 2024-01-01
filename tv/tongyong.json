@@ -41,6 +41,16 @@
         "体育"
       ]
       },
+       {
+      "key": "姐姐",
+      "name": "🚀推荐┃玩偶",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://dytt996.com/api.php/app/"
+    },
       { "key": "lurenjia", "name": "🚀推荐┃路人甲", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url=" },
              {
       "key": "csp_AppMr",
