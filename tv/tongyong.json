@@ -128,16 +128,6 @@
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
     {
-      "key": "酷影2",
-      "name": "🚀推荐┃酷影",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
-    },
-    {
       "key": "csp_量子",
       "name": "🚀推荐┃量子",
       "type": 3,
