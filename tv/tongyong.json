@@ -3,6 +3,10 @@
 "spider": "./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89d697916e9b66cf6b9bfd81981f274d",
 "spider":"./jar/spider.jar",
+"spider": "https://download.kstore.space/download/2883/nzk/nzk0722.jar",
+"spider": "https://d.kstore.space/download/4679/1228.jar",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
+ "spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
 "spider": ".jar/pytv.jar",
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"./jar/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
@@ -73,6 +77,117 @@
       "changeable": 1,
       "ext": "./lib/nmys.json",
       "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
+    },
+        {
+      "key": "XBPQ_麻衣",
+      "name": "🚀推荐┃麻衣",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.51.37.23/man/xbpq/麻衣.json"
+    },
+     {
+      "key": "csp_苹果",
+      "name": "🚀推荐┃苹果",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.51.37.23/man/xbpq/苹果.json"
+    },
+     {
+      "key": "csp_007",
+      "name": "🚀推荐┃零七",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://122.51.37.23/man/xbpq/零零七.json"
+    },
+     {
+      "key": "蜂鸟",
+      "name": "🚀推荐┃蜂鸟",
+      "type": 3,
+      "api": "csp_AppSK",
+      "searchable": 1,
+      "quickSearch": 1,
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA="
+    },
+    {
+      "key": "泰泰",
+      "name": "🚀推荐┃泰泰",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/"
+    },
+    {
+      "key": "酷影2",
+      "name": "🚀推荐┃酷影",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
+    },
+    {
+      "key": "csp_量子",
+      "name": "🚀推荐┃量子",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/2883/nzk/量子资源网.json"
+    },
+     {
+      "key": "csp_TVB",
+      "name": "🚀推荐┃TVB",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/2883/nzk/TVB云播.json"
+    },
+
+     {
+      "key": "csp_XYQHiker_奇趣影视",
+      "name": "🚀推荐┃奇趣",
+      "type": 3,
+      "api": "csp_XYQHiker",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/lib/奇趣影视.json",
+      "jar": "https://jihulab.com/yydfys/yydf/-/raw/main/yydf/jar/xyq.jar"
+    },
+    {
+      "key": "csp_酷茶",
+      "name": "🚀推荐┃酷茶",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/2883/nzk/酷茶影视.json"
+    },
+     {
+      "key": "csp_光棍",
+      "name": "🚀推荐┃光棍",
+      "type": 3,
+      "api": "csp_XBPQ",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://download.kstore.space/download/2883/nzk/光棍影视.json"
     },
     {
       "key":"北极狐", 
