@@ -1047,7 +1047,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://gitee.com/q309972108/tv/raw/master/tv/zb.json",
+      "url": "https://notabug.org/q309972108/1/raw/master/tv/zb.json",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
