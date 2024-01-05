@@ -1047,7 +1047,7 @@
     {
       "name": "live",
       "type": 0,
-      "url": "https://raw.codehub.cn/p/ttvv/d/tv/git/raw/master/tv/zb.json?token=V5zun8oY9x1Y1q93srbgyCiETR3UnnWOik13nci7yp&download=true",
+      "url": "https://notabug.org/q309972108/1/raw/master/tv/zb.json",
       "playerType": 1,
       "ua": "okhttp/3.15",
       "epg": "http://epg.112114.xyz/?ch={name}&date={date}",
