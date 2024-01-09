@@ -13,6 +13,8 @@
 "spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",//春盈备用有冲突
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"./jar/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
+"spider":"./jar/xhfan.jar",
+"spider":"./jar/xhkw0104.jar",
   "sites": [
     {
       "key": "zy_新浪",
@@ -61,6 +63,7 @@
       "filterable": 1,
       "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"
     },
+    {"key": "奈飞影视","name":"✈️奈飞┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/ynfys.json"},
      {
   "key": "csp_XYQHiker_电影牛影院",
         "name": "✈️牛牛┃秒播",
@@ -72,8 +75,7 @@
                                             "ext": "https://pan.shangui.cc/f/jX7s7/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
                                                   "jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
-    
-      {"key":"Wogg","name":"🚀推荐┃玩偶","type":3,"api":"csp_XPathAli","searchable":1,"quickSearch":1,"filterable":0,"ext":"./lib/玩偶哥哥.json"},
+    {"key":"玩偶饭","name":"🚀推荐┃玩偶","type":3,"api":"csp_WoGG","jar":"./lib/xhfan.jar","searchable":1,"quickSearch":1,"changeable":0,"ext":"./tvbox/tok.txt+4k|auto|fhd$$$https://wogg.xyz/$$$弹"},
       {"key":"天天","name":"🚀推荐┃天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
       {"key":"巧技一","name":"🚀推荐┃技巧1","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
       {"key":"巧技二","name":"🚀推荐┃技巧2","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"},
