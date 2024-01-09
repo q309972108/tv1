@@ -3,6 +3,8 @@
 "spider": "./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89d697916e9b66cf6b9bfd81981f274d",
 "spider":"./jar/spider.jar",
+"spider":"./jar/xhfan.jar",
+"spider":"./jar/xhkw0104.jar",
 "spider": "https://download.kstore.space/download/2883/nzk/nzk0722.jar",
 "spider": "https://d.kstore.space/download/4679/1228.jar",
 "spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
@@ -13,8 +15,7 @@
 "spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",//春盈备用有冲突
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"./jar/fix12210.jar;md5;a5c29d1840207b137a855e23526d6e32",
-"spider":"./jar/xhfan.jar",
-"spider":"./jar/xhkw0104.jar",
+
   "sites": [
     {
       "key": "zy_新浪",
