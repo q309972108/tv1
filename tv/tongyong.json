@@ -14,7 +14,7 @@
 "spider": "./fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242",
 "spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",//春盈备用有冲突
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-"spider":"./jar/fix1005.jar",
+"spider":"./jar/fix122101.jar",
 
   "sites": [
     {
