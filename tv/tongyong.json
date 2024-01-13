@@ -16,7 +16,7 @@
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"./jar/fix122101.jar",
 "spider":"./jar/pg.jar",
-
+"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705054893790/fan.txt;md5;4ceefaa8f9f80595929da0af9159645b",
 
   "sites": [
     {
@@ -78,6 +78,45 @@
                                             "ext": "https://pan.shangui.cc/f/jX7s7/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
                                                   "jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
+     {
+      "key": "萌米",
+      "name": "🚀推荐┃萌米",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
+    },
+     {
+      "key": "一起看 ",
+      "name": "🚀推荐┃一起",
+      "type": 3,
+      "api": "csp_YQKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+     {
+      "key": "csp_Nmys",
+      "name": "🚀推荐┃农民",
+      "type": 3,
+      "api": "csp_Nmys",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+    },
+     {
+      "key": "嘿嘿",
+      "name": "🚀推荐┃嘿嘿",
+      "type": 3,
+      "api": "csp_AppMao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A=="
+    },
     {"key":"csp_Panda_玩偶哥哥","name":"🚀推荐┃玩偶","api":"csp_Panda","jar":"./lib/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb","type":3,"searchable":1,"playerType":2,"timeout":30,"changeable":0,"ext":"./tvbox/tok.txt$$$https://gitee.com/q309972108/tv/raw/master/tv/lib/%E7%8E%A9%E5%81%B6%E8%A1%A8%E5%93%A5.json"},
       {"key":"天天","name":"🚀推荐┃天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
       {"key":"巧技一","name":"🚀推荐┃技巧1","type":3,"api":"csp_qiao2","playerType":2,"ext":"https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"},
@@ -88,17 +127,7 @@
       {"key":"南瓜影视","name":"🚀推荐┃南瓜2","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js"},
       {"key": "六度TV","name": "🚀推荐┃六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js"},
        {"key": "咕噜[V2]","name": "🧙咕噜┃有广","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/咕噜[V2].js"},
-      {
-      "key": "csp_Nmys",
-      "name": "🚀推荐┃农民",
-      "type": 3,
-      "api": "csp_Nmys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "./lib/nmys.json",
-      "jar":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431"
-    },
+     
         {
       "key": "XBPQ_麻衣",
       "name": "🚀推荐┃麻衣",
@@ -353,33 +382,6 @@
         "搜索模式": "1",
         "搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html",
         "搜索数组": "<li class=\"active clearfix&&</li"
-      }
-    },
-     {
-      "key": "一起看 ",
-      "name": "✈️一起┃秒播",
-      "type": 3,
-      "api": "csp_YQKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-    {
-      "key": "萌米",
-      "name": "🚀推荐┃萌米",
-      "type": 3,
-      "searchable": 1,
-      "quickSearch": 1,
-      "api": "csp_Appto",
-      "jar": "http://小盒酷玩.fun:75/禁止贩卖",
-      "playerType": 2,
-      "ext": {
-        "key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ",
-        "ic": "",
-        "token": "",
-        "url": "http://app.mervod.com:9527",
-        "configurl": "/addons/apptov4/app.php/v1/config/get?p=android",
-        "api": "/addons/apptov4/app.php/v1/"
       }
     },
      {
