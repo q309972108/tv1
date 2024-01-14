@@ -1,4 +1,5 @@
 {
+"spider": "./spider.jar",
 "spider": "./jar/2024hys.txt",
 "spider": "./fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242",
 "spider": "./jar/HeChengChaXiu.jar",
@@ -46,6 +47,20 @@
         "体育"
       ]
       },
+      {"key":"芒果","name":"🚀推荐┃芒芒","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
+      {"key":"爱奇异","name":"🚀推荐┃奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
+      {"key":"优酷","name":"🚀推荐┃游酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
+      {"key": "腾讯","name": "🚀推荐┃企鹅","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/tengxun.js"},
+      {
+            "key": "csp_SP33",
+            "name": "🚀推荐┃三三",
+            "type": 3,
+            "api": "csp_SP33",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "changeable": 0
+        },
       { "key": "lurenjia", "name": "🚀推荐┃路人甲", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url=" },
              {
       "key": "csp_AppMr",
