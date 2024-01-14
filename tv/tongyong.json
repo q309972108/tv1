@@ -1,4 +1,5 @@
 {
+"spider": "./jar/2024hys.txt",
 "spider": "./fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242",
 "spider": "./jar/HeChengChaXiu.jar",
 "spider": "./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
@@ -77,16 +78,7 @@
                                             "ext": "https://pan.shangui.cc/f/jX7s7/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
                                                   "jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
-     {
-      "key": "萌米",
-      "name": "🚀推荐┃萌米",
-      "type": 3,
-      "api": "csp_AppMao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "FbjKZ1gO+9u81wMIxzHg+7x1Oep4CIFuZAlCy8a4qCgjGLacnxDo6wiBr66jP3X8J2mRx31u1XgkTTVrENVjfhQKUN2Yi12XNWQSlmVZxLtiSaSiZG0xf1Hw"
-    },
+    {"key": "萌米","name": "🚀推荐┃萌米","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_Appto","playerType": 2,"jar":"http://小盒酷玩.xyz:75/禁止贩卖","ext": {"key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ","ic": "","token": "","url": "http://app.mervod.com:9527","configurl": "/addons/apptov4/app.php/v1/config/get?p=android","api": "/addons/apptov4/app.php/v1/"}},
      {
       "key": "一起看 ",
       "name": "🚀推荐┃一起",
