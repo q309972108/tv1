@@ -1,6 +1,6 @@
 {
-"spider": "http://emokj.kigfk.top/emo/jar/emo1230.jar;md5;ff2a83bd0eba82a2e688d964876b8348",
 "spider": "./jar/cc.jar",
+"spider": "./jar/xs.jar",
 "spider": "./spider.jar",
 "spider":"https://d.kstore.space/download/4679/1228.jar",
 "spider": "./jar/2024hys.txt",
@@ -336,6 +336,7 @@
       "ext": "https://www.kuin.one/api.php/app/",
       "jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"
       },
+      {"key":"极狐","name":"🚀推荐┃极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"https://www.kuin.one/api.php/app/"},
       {
       "key": "人人影视",
       "name": "🚀推荐┃人人",
