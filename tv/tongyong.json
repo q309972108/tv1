@@ -1,4 +1,5 @@
 {
+"spider":"https://d.kstore.space/download/4679/1228.jar",
 "spider": "./spider.jar",
 "spider": "./jar/2024hys.txt",
 "spider": "./fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242",
@@ -47,6 +48,8 @@
         "体育"
       ]
       },
+       {"key":"csp_JianPian","name":"💜荐片秒播","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+       {"key": "csp_七新影视","name":"💚七新影视","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.51.37.23/man/xbpq/七新.json"},
       {"key":"芒果","name":"🚀推荐┃芒芒","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
       {"key":"爱奇异","name":"🚀推荐┃奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
       {"key":"优酷","name":"🚀推荐┃游酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
