@@ -1,4 +1,5 @@
 {
+"spider": "./jar/cc.jar",
 "spider": "./spider.jar",
 "spider":"https://d.kstore.space/download/4679/1228.jar",
 "spider": "./jar/2024hys.txt",
@@ -252,15 +253,42 @@
       "filterable": 1,
       "ext": "https://www.tvkuys.xyz/api.php/app/"
     },
-    {
-      "key": "csp_量子",
+ {
+      "key": "csp_xml_量子资源",
       "name": "🚀推荐┃量子",
-      "type": 3,
-      "api": "csp_XBPQ",
+      "type": 1,
+      "api": "http://cj.lziapi.com/api.php/provide/vod/",
+      "playUrl": "",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/量子资源网.json"
+      "categories": [
+        "国产动漫",
+        "国产剧",
+        "动作片",
+        "喜剧片",
+        "爱情片",
+        "动画片",
+        "冒险片",
+        "武侠片",
+        "科幻片",
+        "战争片",
+        "日韩剧",
+        "港台剧",
+        "欧美剧",
+        "泰国剧",
+        "海外剧",
+        "日韩动漫",
+        "欧美动漫",
+        "国内综艺",
+        "海外综艺",
+        "恐怖片",
+        "灾难片",
+        "悬疑片",
+        "纪录片",
+        "惊悚片",
+        "奇幻片",
+        "剧情片"
+      ]
     },
      {
       "key": "csp_XYQHiker_奇趣影视",
