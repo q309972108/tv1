@@ -1,4 +1,5 @@
 {
+"spider": "http://emokj.kigfk.top/emo/jar/emo1230.jar;md5;ff2a83bd0eba82a2e688d964876b8348",
 "spider": "./jar/cc.jar",
 "spider": "./spider.jar",
 "spider":"https://d.kstore.space/download/4679/1228.jar",
@@ -50,6 +51,7 @@
         "体育"
       ]
       },
+      {"key":"快车资源","name":"🧙快车┃有广","type":1,"api":"https://caiji.kczyapi.com/api.php/provide/vod/","searchable":1,"quickSearch":1},
       {
     "key":"csp_XBPQ_jukankan",
     "name":"🚀推荐┃剧看看",
