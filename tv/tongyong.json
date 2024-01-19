@@ -100,9 +100,7 @@
             "filterable": 1,
             "changeable": 0
         },
-        {"key":"子子影视","name":"🚀推荐┃子子","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/zizi.json"},
-      { "key": "lurenjia", "name": "🚀推荐┃路人甲", "type": 1, "api": "http://dytt996.com/api.php/provide/vod/?ac=list", "searchable": 1, "quickSearch": 1, "filterable": 1, "playUrl": "json:https://gg.dytt996.com/quad.php?url=" },
-             {
+    {
       "key": "csp_AppMr",
       "name": "🚀推荐┃明明",
       "type": 3,
@@ -312,7 +310,6 @@
       "ext": "https://www.kuin.one/api.php/app/",
       "jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"
       },
-      {"key":"极狐","name":"🚀推荐┃极狐","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"playerType":"2","ext":"https://www.kuin.one/api.php/app/"},
       {
       "key": "人人影视",
       "name": "🚀推荐┃人人",
