@@ -25,7 +25,7 @@
   "sites": [
     {
       "key": "zy_新浪",
-      "name": "🧙呕吼影视┃有广",
+      "name": "🧙呕吼┃有广",
       "type": 1,
       "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
       "searchable": 1,
@@ -486,15 +486,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/heihei"
     },
-    {
-      "key": "看看",
-      "name": "🧙看看┃有广",
-      "type": 3,
-      "api": "csp_KanKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+
      {
       "key": "赞赞",
       "name": "🚀推荐┃赞赞",
