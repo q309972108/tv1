@@ -237,7 +237,7 @@
       "filterable": 1,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
     },
-      {"key":"南瓜影视","name":"🚀推荐┃南瓜2","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js"},
+      {"key":"南瓜影视","name":"🚀推荐┃南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js"},
       {"key": "六度TV","name": "🚀推荐┃六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js"},
        {"key": "咕噜[V2]","name": "🧙咕噜┃有广","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/咕噜[V2].js"},
      
@@ -778,7 +778,7 @@
       "quickSearch": 1,
       "changeable": 1
     },
-  {"key": "AppYs_南瓜","name": "🚀推荐┃南瓜","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
+  {"key": "AppYs_南瓜","name": "🚀推荐┃南瓜2","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"
     },
      {
       "key": "drpy_js_人人影视",
