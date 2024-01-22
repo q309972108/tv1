@@ -1,5 +1,4 @@
 {
-"spider": "./jar/fix24117.jar",
 "spider":"./jar/xs.jar",
 "spider": "./spider.jar",
 "spider":"https://d.kstore.space/download/4679/1228.jar",
@@ -21,7 +20,8 @@
 "spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
 "spider":"./jar/pg.jar",
 "spider":"http://xutv.alwaysdata.net/jar/xu230316.jpg",
-  "spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CB79A023D795989F42EBF76D64FD7AFA",
+"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CB79A023D795989F42EBF76D64FD7AFA",
+"spider": "./jar/fix24117.jar",
   "sites": [
     {
       "key": "zy_新浪",
