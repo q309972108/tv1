@@ -1,27 +1,4 @@
 {
-"spider":"./jar/xs.jar",
-"spider": "./spider.jar",
-"spider":"https://d.kstore.space/download/4679/1228.jar",
-"spider": "./jar/2024hys.txt",
-"spider": "./fan1104.jar;md5;514c44ae1ccc02d41e69326d5eea4242",
-"spider": "./jar/HeChengChaXiu.jar",
-"spider": "./lib/ttkx.jar;md5;c253e1930a210fa5141e5418f1f90949",
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;89d697916e9b66cf6b9bfd81981f274d",
-"spider":"./jar/spider.jar",
-"spider": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1705054893790/fan.txt;md5;4ceefaa8f9f80595929da0af9159645b",
-"spider":"./jar/xhkw0104.jar",
-"spider": "https://download.kstore.space/download/2883/nzk/nzk0722.jar",
-"spider": "https://d.kstore.space/download/4679/1228.jar",
-"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431",
-"spider": "http://like.xn--z7x900a.live:66/jar/PandaQ231205.jar;md5;9cc29f6286b2fe7910628852929c4bdb",
-"spider":"https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;8c6fadafee20b3780e602f8f52c7cc92",//神秘
-"spider": ".jar/pytv.jar",
-"spider":"https://jihulab.com/hys4077/jk/-/raw/main/alib/jar/zyhys.png",//春盈备用有冲突
-"spider": "https://ghproxy.net/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar",
-"spider":"./jar/pg.jar",
-"spider":"http://xutv.alwaysdata.net/jar/xu230316.jpg",
-"spider": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar;md5;CB79A023D795989F42EBF76D64FD7AFA",
-"spider":"https://gitee.com/langli-little-white-dragon-1/little-white-dragon/raw/master/spider.jar",
 "spider":"./jar/fix24117.jar",
   "sites": [
     {
