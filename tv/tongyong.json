@@ -3,33 +3,19 @@
 "spider":"./jar/fix24117.jar",
 
   "sites": [
-    {
-      "key": "zy_新浪",
-      "name": "🧙呕吼┃有广",
-      "type": 1,
-      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+       {
+      "key": "超神",
+      "name": "🚀推荐┃超神",
+      "type": 3,
+      "api": "csp_qiao",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0,
-      "categories": [
-        "台湾剧",
-        "大陆剧",
-        "港澳剧",
-        "剧情片",
-        "动作片",
-        "喜剧片",
-        "战争片",
-        "爱情片",
-        "科幻片",
-        "综艺",
-        "动漫",
-        "动漫电影",
-        "欧美剧",
-        "韩剧",
-        "泰剧",
-        "体育"
-      ]
-      },
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen",
+      "jar": "./jar/fix24117.jar"
+    },
+   
        {
       "key": "巧技一",
       "name": "🚀推荐┃巧技a",
@@ -88,18 +74,6 @@
       "filterable": 0,
       "jar": "./jar/fix24117.jar"
     },
-        {
-      "key": "超神",
-      "name": "🚀推荐┃超神",
-      "type": 3,
-      "api": "csp_qiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen",
-      "jar": "./jar/fix24117.jar"
-    },
       {"key":"南瓜影视","name":"🚀推荐┃南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js",
       "jar": "./jar/fix24117.jar"},
       {
@@ -120,7 +94,33 @@
     \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
     \"分类url\":\"https://jukankan.cc/vodtype/{cateId}-{catePg}.html\"}",
     "jar": "./jar/2024hys.txt"},
-
+ {
+      "key": "zy_新浪",
+      "name": "🧙呕吼┃有广",
+      "type": 1,
+      "api": "https://api.xinlangapi.com/xinlangapi.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "categories": [
+        "台湾剧",
+        "大陆剧",
+        "港澳剧",
+        "剧情片",
+        "动作片",
+        "喜剧片",
+        "战争片",
+        "爱情片",
+        "科幻片",
+        "综艺",
+        "动漫",
+        "动漫电影",
+        "欧美剧",
+        "韩剧",
+        "泰剧",
+        "体育"
+      ]
+      },
        {
       "key": "csp_XBPQ秋霞影视",
       "name": "✈️推荐┃秋霞",
