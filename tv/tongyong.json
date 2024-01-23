@@ -16,7 +16,7 @@
       "jar": "./jar/fix24117.jar"
     },
    {"key":"畅梦","name":"🚀推荐┃畅梦","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js","jar": "./jar/fix24117.jar"},
-   {"key":"天天","name":"推荐┃天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar": "./jar/fix24117.jar"},
+   {"key":"天天","name":"🚀推荐┃天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar": "./jar/fix24117.jar"},
     {"key":"南瓜影视","name":"🚀推荐┃南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js","jar": "./jar/fix24117.jar"},
        {
       "key": "巧技一",
