@@ -30,6 +30,78 @@
         "体育"
       ]
       },
+       {
+      "key": "巧技一",
+      "name": "🚀推荐┃巧技a",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1",
+      "jar": "./jar/fix24117.jar"
+    },
+    {
+      "key": "巧技二",
+      "name": "🚀推荐┃巧技b",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2",
+      "jar": "./jar/fix24117.jar"
+    },
+    {
+      "key": "巧技三",
+      "name": "🚀推荐┃巧技c",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3",
+      "jar": "./jar/fix24117.jar"
+    },
+    {
+      "key": "巧技四",
+      "name": "🚀推荐┃巧技d",
+      "type": 3,
+      "api": "csp_qiao2",
+      "playerType": 2,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4",
+      "jar": "./jar/fix24117.jar"
+    },
+    {
+      "key": "巧技五",
+      "name": "🚀推荐┃巧技e",
+      "type": 3,
+      "api": "csp_qiao2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5",
+      "jar": "./jar/fix24117.jar"
+    },
+        {
+      "key": "看看",
+      "name": "🚀推荐┃看看",
+      "type": 3,
+      "api": "csp_KanKan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "jar": "./jar/fix24117.jar"
+    },
+        {
+      "key": "超神",
+      "name": "🚀推荐┃超神",
+      "type": 3,
+      "api": "csp_qiao",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen",
+      "jar": "./jar/fix24117.jar"
+    },
+      {"key":"南瓜影视","name":"🚀推荐┃南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js",
+      "jar": "./jar/fix24117.jar"},
       {
     "key":"csp_XBPQ_jukankan",
     "name":"🚀推荐┃剧看看",
@@ -145,70 +217,7 @@
       "jar": "./jar/2024hys.txt"
     },
     {"key":"天天","name":"🚀推荐┃天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
-    {
-      "key": "巧技一",
-      "name": "🚀推荐┃巧技a",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1"
-    },
-    {
-      "key": "巧技二",
-      "name": "🚀推荐┃巧技b",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2"
-    },
-    {
-      "key": "巧技三",
-      "name": "🚀推荐┃巧技c",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3"
-    },
-    {
-      "key": "巧技四",
-      "name": "🚀推荐┃巧技d",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4"
-    },
-    {
-      "key": "巧技五",
-      "name": "🚀推荐┃巧技e",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
-    },
-        {
-      "key": "看看",
-      "name": "🚀推荐┃看看",
-      "type": 3,
-      "api": "csp_KanKan",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
-        {
-      "key": "超神",
-      "name": "🚀推荐┃超神",
-      "type": 3,
-      "api": "csp_qiao",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen"
-    },
-      {"key":"南瓜影视","name":"🚀推荐┃南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js"},
+   
       {"key": "六度TV","name": "🚀推荐┃六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js"},
        {"key": "咕噜[V2]","name": "🧙咕噜┃有广","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/咕噜[V2].js"},
      
