@@ -1,6 +1,6 @@
 {
-"spider":"./jar/fix24117.jar",
 "spider": "./jar/2024hys.txt",
+"spider":"./jar/fix24117.jar",
 
   "sites": [
     {
@@ -46,7 +46,8 @@
     \"线路标题\":\"<h3>&&</h3>\",
     \"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",
     \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
-    \"分类url\":\"https://jukankan.cc/vodtype/{cateId}-{catePg}.html\"}"},
+    \"分类url\":\"https://jukankan.cc/vodtype/{cateId}-{catePg}.html\"}",
+    "jar": "./jar/2024hys.txt"},
 
        {
       "key": "csp_XBPQ秋霞影视",
@@ -120,7 +121,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "./lib/奇优影视.js"
+      "ext": "./lib/奇优影视.js",
+      "jar": "./jar/2024hys.txt"
     },
      {
       "key": "一起看 ",
@@ -139,7 +141,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1,
-      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"
+      "ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json",
+      "jar": "./jar/2024hys.txt"
     },
     {"key":"天天","name":"🚀推荐┃天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
     {
@@ -324,7 +327,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://download.kstore.space/download/2883/nzk/光棍影视.json"
+      "ext": "https://download.kstore.space/download/2883/nzk/光棍影视.json",
+      "jar": "./jar/2024hys.txt"
     },
     {
       "key":"北极狐", 
@@ -372,7 +376,7 @@
 {"key": "骑骑","name": "🚀推荐┃骑骑","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"影视工厂","name":"🚀推荐┃工厂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/yingshigongchang.json"},
 {"key":"6V磁力","name":"🚀推荐┃6V磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/6v.json"},
-{"key":"达达龟","name":"🚀推荐┃达龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json"},
+{"key":"达达龟","name":"🚀推荐┃达龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json","jar": "./jar/2024hys.txt"},
 {"key": "O先生","name": "🚀推荐┃O先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key": "高清资源网","name": "🚀推荐┃高清","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"]}, 
 {"key":"csp_Voflix","name":"🚀推荐┃Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/voflix.json"},
