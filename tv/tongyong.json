@@ -1,6 +1,6 @@
 {
 "spider":"./jar/fix24117.jar",
-"spider": "./lib/ttkx.jar",
+"spider": "./jar/2024hys.txt",
   "sites": [
     {
       "key": "zy_新浪",
