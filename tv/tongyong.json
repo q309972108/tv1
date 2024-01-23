@@ -1,8 +1,5 @@
 {
 "spider":"./jar/fix24117.jar",
-"spider":"./jar/xs.jar",
-"spider": "./spider.jar",
-"spider": "./jar/2024hys.txt",
 "spider": "./lib/ttkx.jar",
   "sites": [
     {
