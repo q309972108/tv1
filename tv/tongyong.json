@@ -1,5 +1,7 @@
 {
-"spider":"./jar/cscs.txt",
+"spider": "./jar/2024hys.txt",
+"spider":"./jar/fix24117.jar",
+
   "sites": [
     {
       "key": "zy_新浪",
