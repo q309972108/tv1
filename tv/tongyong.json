@@ -3,9 +3,10 @@
 "spider":"./jar/fix24117.jar",
 
   "sites": [
+      {"key":"南坊","name":"🚀南坊","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg=","jar": "./jar/fty.jar"},
        {
       "key": "超神",
-      "name": "🚀推荐┃超神",
+      "name": "🚀超神",
       "type": 3,
       "api": "csp_qiao",
       "searchable": 1,
@@ -13,62 +14,18 @@
       "playerType": 2,
       "filterable": 1,
       "ext": "https://jihulab.com/qiaoji/open/-/raw/main/chaoshen",
-      "jar": "./jar/fix24117.jar"
-    },
-   {"key":"畅梦","name":"🚀推荐┃畅梦","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js","jar": "./jar/fix24117.jar"},
-   {"key":"天天","name":"🚀推荐┃天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar": "./jar/fix24117.jar"},
-    {"key":"南瓜影视","name":"🚀推荐┃南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js","jar": "./jar/fix24117.jar"},
-       {
-      "key": "巧技一",
-      "name": "🚀推荐┃巧技a",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji1",
-      "jar": "./jar/fix24117.jar"
-    },
-    {
-      "key": "巧技二",
-      "name": "🚀推荐┃巧技b",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji2",
-      "jar": "./jar/fix24117.jar"
-    },
-    {
-      "key": "巧技三",
-      "name": "🚀推荐┃巧技c",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji3",
-      "jar": "./jar/fix24117.jar"
-    },
-    {
-      "key": "巧技四",
-      "name": "🚀推荐┃巧技d",
-      "type": 3,
-      "api": "csp_qiao2",
-      "playerType": 2,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji4",
-      "jar": "./jar/fix24117.jar"
-    },
-    {
-      "key": "巧技五",
-      "name": "🚀推荐┃巧技e",
-      "type": 3,
-      "api": "csp_qiao2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "playerType": 2,
-      "filterable": 1,
-      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5",
-      "jar": "./jar/fix24117.jar"
-    },
+      "jar": "./jar/fix24117.jar"},
+
+   {"key":"畅梦","name":"🚀畅梦","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js","jar": "./jar/fix24117.jar"},
+   {"key":"天天","name":"🚀天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar": "./jar/fix24117.jar"},
+   {"key":"南瓜影视","name":"🚀南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js","jar": "./jar/fix24117.jar"},
+   {"key":"影视二","name":"🚀巧技","type":3,"api":"csp_Movie2","ext":"./lib/movie2","jar":"./jar/qj.jar"},
+   {"key":"影视三","name":"🚀巧技b","type":3,"api":"csp_Movie2","ext":"./lib/movie3","jar":"./jar/qj.jar"},
+   {"key":"影视四","name":"🚀巧技c","type":3,"api":"csp_Movie2","ext":"./lib/movie4","jar":"./jar/qj.jar"},
+   {"key":"影视五","name":"🚀巧技d","type":3,"api":"csp_Movie2","ext":"./lib/movie5","jar":"./jar/qj.jar"},
         {
       "key": "看看",
-      "name": "🚀推荐┃看看",
+      "name": "🚀看看",
       "type": 3,
       "api": "csp_KanKan",
       "searchable": 1,
@@ -78,7 +35,7 @@
     },  
       {
     "key":"csp_XBPQ_jukankan",
-    "name":"🚀推荐┃剧看看",
+    "name":"🚀剧看看",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -139,13 +96,13 @@
     },
        {"key":"csp_JianPian","name":"🧙荐片┃有广","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
        {"key": "csp_七新影视","name":"🚀推荐┃七新","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.51.37.23/man/xbpq/七新.json"},
-      {"key":"芒果","name":"🚀推荐┃芒芒","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
-      {"key":"爱奇异","name":"🚀推荐┃奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
-      {"key":"优酷","name":"🚀推荐┃游酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
-      {"key": "腾讯","name": "🚀推荐┃企鹅","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/tengxun.js"},
+      {"key":"芒果","name":"🚀芒芒","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
+      {"key":"爱奇异","name":"🚀奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
+      {"key":"优酷","name":"🚀游酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
+      {"key": "腾讯","name": "🚀企鹅","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/tengxun.js"},
       {
             "key": "csp_SP33",
-            "name": "🚀推荐┃三三",
+            "name": "🚀三三",
             "type": 3,
             "api": "csp_SP33",
             "searchable": 1,
@@ -155,7 +112,7 @@
         },
     {
       "key": "csp_AppMr",
-      "name": "🚀推荐┃明明",
+      "name": "🚀明明",
       "type": 3,
       "api": "csp_AppMr",
       "searchable": 1,
@@ -164,7 +121,7 @@
     },
       {
       "key": "车妹",
-      "name": "🚀推荐┃车妹",
+      "name": "🚀车妹",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -184,10 +141,10 @@
                                             "ext": "https://pan.shangui.cc/f/jX7s7/%E7%94%B5%E5%BD%B1%E7%89%9B%E5%BD%B1%E9%99%A2.json",
                                                   "jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"
     },
-    {"key": "萌米","name": "🚀推荐┃萌米","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_Appto","playerType": 2,"jar":"http://小盒酷玩.xyz:75/禁止贩卖","ext": {"key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ","ic": "","token": "","url": "http://app.mervod.com:9527","configurl": "/addons/apptov4/app.php/v1/config/get?p=android","api": "/addons/apptov4/app.php/v1/"}},
+    {"key": "萌米","name": "🚀萌米","type": 3,"searchable": 1,"quickSearch": 1,"api": "csp_Appto","playerType": 2,"jar":"http://小盒酷玩.xyz:75/禁止贩卖","ext": {"key": "QBccRNTdEscBYykPWRbKD7YREjN6AJYJ","ic": "","token": "","url": "http://app.mervod.com:9527","configurl": "/addons/apptov4/app.php/v1/config/get?p=android","api": "/addons/apptov4/app.php/v1/"}},
      {
       "key": "csp_xBPQ_奇优",
-      "name": "🚀推荐┃奇优",
+      "name": "🚀奇优",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
@@ -207,7 +164,7 @@
     },
      {
       "key": "csp_Nmys",
-      "name": "🚀推荐┃农民",
+      "name": "🚀农民",
       "type": 3,
       "api": "csp_Nmys",
       "searchable": 1,
