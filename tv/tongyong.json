@@ -1,7 +1,7 @@
 {
 "spider":"./jar/fix24117.jar",
 "spider": "./jar/2024hys.txt",
-"spider": "./jar/pg.jar",
+"spider": "./jar/pytv.jar",
 "sites": [
       {
       "key": "zy_新浪",
