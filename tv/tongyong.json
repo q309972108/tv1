@@ -1,4 +1,5 @@
 {
+"spider":"./jar/fix24117.jar",
 "sites": [
       {
       "key": "zy_新浪",
