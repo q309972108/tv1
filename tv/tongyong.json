@@ -80,29 +80,16 @@
       "filterable": 0,
       "jar": "./jar/fix24117.jar"
     },  
-       {
-      "key": "泰泰",
-      "name": "🚀泰泰",
-      "type": 3,
-      "api": "csp_AppYsV2",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://www.tvkuys.xyz/api.php/app/",
-      "jar": "./jar/qj.jar"
-    },
-   {"key":"南坊","name":"🚀南坊","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg=","jar": "./jar/fty.jar"},
    {"key":"天天","name":"🚀天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar": "./jar/fix24117.jar"},
    {"key":"影视二","name":"🚀巧技","type":3,"api":"csp_Movie2","ext":"./lib/movie2","jar":"./jar/qj.jar"},
    {"key":"影视三","name":"🚀巧技b","type":3,"api":"csp_Movie2","ext":"./lib/movie3","jar":"./jar/qj.jar"},
    {"key":"影视四","name":"🚀巧技c","type":3,"api":"csp_Movie2","ext":"./lib/movie4","jar":"./jar/qj.jar"},
    {"key":"影视五","name":"🚀巧技d","type":3,"api":"csp_Movie2","ext":"./lib/movie5","jar":"./jar/qj.jar"},
     {"key":"畅梦","name":"🚀畅梦","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/changmeng.js","jar": "./jar/fix24117.jar"},
-     {"key":"南瓜影视","name":"🚀南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js","jar": "./jar/fix24117.jar"},
-        
+     {"key":"南瓜影视","name":"🚀南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js","jar": "./jar/fix24117.jar"}, 
       {
     "key":"csp_XBPQ_jukankan",
-    "name":"🚀剧看看",
+    "name":"🚀看剧",
     "type":3,
     "api":"csp_XBPQ",
     "searchable":1,
@@ -118,12 +105,7 @@
     \"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",
     \"分类url\":\"https://jukankan.cc/vodtype/{cateId}-{catePg}.html\"}",
     "jar": "./jar/2024hys.txt"},
-       {"key":"csp_JianPian","name":"🧙荐片┃有广","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
-       {"key": "csp_七新影视","name":"🚀七新","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.51.37.23/man/xbpq/七新.json"},
-      {"key":"爱奇异","name":"🚀奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
-      {"key":"优酷","name":"🚀游酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
-      {"key": "腾讯","name": "🚀企鹅","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/tengxun.js"},
-      {
+    {
             "key": "csp_SP33",
             "name": "🚀三三",
             "type": 3,
@@ -133,6 +115,24 @@
             "filterable": 1,
             "changeable": 0,
             "jar": "./jar/fan.txt"},
+    {"key":"南坊","name":"🚀南坊","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg=","jar": "./jar/fty.jar"},
+    {
+      "key": "泰泰",
+      "name": "🚀泰泰",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://www.tvkuys.xyz/api.php/app/",
+      "jar": "./jar/qj.jar"
+    },
+       {"key":"csp_JianPian","name":"🧙荐片┃有广","type":3,"api":"csp_JianPian","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ownjpykxttjzuhy.jiesiwa.com"},
+       {"key": "csp_七新影视","name":"🚀七新","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://122.51.37.23/man/xbpq/七新.json"},
+      {"key":"爱奇异","name":"🚀奇异","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
+      {"key":"优酷","name":"🚀游酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
+      {"key": "腾讯","name": "🚀企鹅","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/tengxun.js"},
+    
     {
       "key": "csp_AppMr",
       "name": "🚀明明",
@@ -276,7 +276,7 @@
     },
      {
       "key": "csp_光棍",
-      "name": "🚀光棍",
+      "name": "🧙光棍┃有广",
       "type": 3,
       "api": "csp_XBPQ",
       "searchable": 1,
