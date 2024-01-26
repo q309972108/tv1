@@ -1,7 +1,7 @@
 {
 "spider":"./jar/fix24117.jar",
 "spider": "./jar/2024hys.txt",
-"spider": "./jar/fty.jar",
+"spider": "./jar/HeChengChaXiu.jar",
 "sites": [
       {
       "key": "zy_新浪",
@@ -223,12 +223,13 @@
     },
      {
       "key": "蜂鸟",
-      "name": "🚀推荐┃蜂鸟",
+      "name": "🚀蜂鸟",
       "type": 3,
       "api": "csp_AppSK",
       "searchable": 1,
       "quickSearch": 1,
-      "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA="
+      "ext": "FbjPcVZY48PN/RIZ5QqOrspmMoZYCIIND24O/vn7yUhWQcuI8HjexlGPt+etACSwf3iKwX4rh3ktWiMrCNspYRZYUM6f0R/eKT9M0yoRk6EyAfugfXYhMxjmPGFi28eiv3OAOtR9Ttwk9kZJ6wehHhpaZOu66RhRYpVbfGEUahA=",
+      "jar": "./jar/fty.jar"
     },
  
  {
