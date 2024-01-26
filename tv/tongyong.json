@@ -1,6 +1,7 @@
 {
 "spider":"./jar/fix24117.jar",
 "spider": "./jar/2024hys.txt",
+"spider": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;5388d60fb0519fa359339c3252fa5e69",
   "sites": [
       {
       "key": "zy_新浪",
@@ -316,16 +317,15 @@
     },
     {"key":"csp_AppMr","name":"🚀推荐┃明明","type":3,"api":"csp_AppMr","m3u8ads": "hd.youyhn.com","searchable":1,"quickSearch":1,"filterable":1,"jar":"http://52bsj.vip:81/api/v3/file/get/119809/0329.jar?sign=X74NXtsF7xr1JgPXZky_lgR56WDsUVYzWj1I4gNRo7c%3D%3A0"},//明明
 
-{"key":"csp_五五","name":"🚀推荐┃五五","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json"},
+{"key":"csp_五五","name":"🚀五五","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json","jar": "./jar/2024hys.txt"},
 {"key":"555影视","name":"🚀推荐┃555","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/555.json"},
 {"key":"348影视","name":"🚀推荐┃348","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/348.json"},
-{"key": "酷茶影视","name": "🚀推荐┃酷茶","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/kucha.json"},
+{"key": "酷茶影视","name": "🧙酷茶┃有广","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/kucha.json","jar": "./jar/2024hys.txt"},
 {"key":"酷影","name":"🚀推荐┃酷影","type":3,"api":"csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "骑骑","name": "🚀推荐┃骑骑","type": 3,"playerType": 2,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key":"影视工厂","name":"🚀推荐┃工厂","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/yingshigongchang.json"},
 {"key":"6V磁力","name":"🚀推荐┃6V磁","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/6v.json"},
 {"key":"达达龟","name":"🚀达龟","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"playerType": "1","ext":"./lib/dadagui.json","jar": "./jar/2024hys.txt"},
-{"key": "O先生","name": "🚀推荐┃O先生","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":{"分类url": "https://www.osirmovie.com/vodshow/{cateId}-{area}-{by}-{class}-----{catePg}---{year}.html","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
 {"key": "高清资源网","name": "🚀高清","type": 1,"api": "https://api.1080zyku.com/inc/apijson.php","searchable": 1,"quickSearch": 1,"filterable": 1,"playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","categories":["动作片","国产剧","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","记录片","欧美剧","日本剧","泰国剧","韩国剧","台湾剧","香港剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","国产动漫","日韩动漫","欧美动漫"],
       "jar": "./jar/fix24117.jar"}, 
 {"key":"csp_Voflix","name":"🚀推荐┃Voflix","type":3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./lib/voflix.json"},
@@ -347,7 +347,7 @@
 {"key":"csp_007","name":"✈️零零七┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/007.json"},
 {"key": "开心果","name": "🚀推荐┃开心果","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.gsjtlxy.top/xgapp.php/v3/"},
 {"key": "csp_黑狐","name": "✈️黑狐┃秒播","type": 3,"api": "csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/heihu.json"},
-{"key":"七年影视","name":"✈️七年┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./lib/qinian.json"},
+{"key":"七年影视","name":"🚀七年","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./lib/qinian.json","jar": "./jar/2024hys.txt"},
 {"key": "七新影视","name":"✈️七新┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/qixinyingshi.json"},
 {"key":"热播之家","name":"✈️热播┃秒播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/rebozj.json"},
 {"key":"saoho","name":"🚀推荐┃烧火","type":3,"playerType":1,"api":"./lib/drpy2.min.js","ext":"./lib/骚火电影.js"},
