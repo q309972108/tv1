@@ -27,6 +27,8 @@
 
 {"key": "双黄","name": "🚀双黄","type": 3,"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","api": "csp_XBPQ","ext": {"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4","请求头": "手机#Referer$https://www.dandanju.cc/","分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li","搜索模式": "1","搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html","搜索数组": "<li class=\"active clearfix&&</li"}},
 
+{"key":"子子影视","name":"子子┃秒播","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://atomgit.com/yimeng/ym/raw/master/zizi.json","jar": "./jar/ttkx.jar"},
+
 {"key": "csp_SP33","name": "🚀三三","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "./jar/fan.txt"},
 
 {"key": "腾讯","name": "🚀企鹅","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/tengxun.js","jar": "./jar/fix24117.jar"},
@@ -67,7 +69,7 @@
 
 {"key":"csp_五五","name":"🚀五五","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json","jar": "./jar/2024hys.txt"},
 
-
+{"key": "csp_beijihu","name": "🚀极狐","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/","jar": "./jar/zss.jar"},
 
 
     {
