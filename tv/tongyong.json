@@ -16,6 +16,7 @@
 {"key": "腾讯","name": "🚀企鹅","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/tengxun.js","jar": "./jar/fix24117.jar"},
 {"key": "看看","name": "🚀看看","type": 3,"api": "csp_KanKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/fix24117.jar"},  
 {"key":"天天","name":"🚀天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar": "./jar/fix24117.jar"},
+{"key": "csp_appys_影探","name": "🚀影探","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vip11.lyyytv.cn/api.php/app/","jar": "./jar/yt.jar"},
 {"key":"南坊","name":"🚀南坊","type":3,"api":"csp_AppMao","searchable":1,"quickSearch":1,"changeable":1,"ext":"FbjCcU1KqpC5pkRX4Q3D+NciPclIFs4EHzRV89m3pENRS6PivxPrlXvH/4efUSWwUCWwwk8srkIDSXN9RIJkSCZPJqnRikLRakBH0XBB6uNlX6XgMjhUKBTbBXopnsWdvXX6OowIBLQ78wghs3yRbgJxOYvrglBVIeI4cTcDGxixtMJ+yL0zE9g1d+N2RH4JERZh3CoYXSO1hH420ARbjt08lerroREmfGoT8JEGfTFW3MrK3hWueIyRsyOllsj/P87VXSxEVLnwNm4fos8lCFL74+azvs61n89svqg=","jar": "./jar/fty.jar"},
 {"key": "泰泰","name": "🚀泰泰","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/","jar": "./jar/qj.jar"},
 {"key": "csp_xBPQ_奇优","name": "🚀奇优","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/奇优影视.js","jar": "./jar/2024hys.txt"},
@@ -31,7 +32,6 @@
 {"key":"七年影视","name":"🚀七年","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"playerType": "1","ext":"./lib/qinian.json","jar": "./jar/2024hys.txt"},
 {"key":"热播之家","name":"🚀热播","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/rebozj.json","jar": "./jar/spider.jar"},
 {"key":"csp_五五","name":"🚀五五","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json","jar": "./jar/2024hys.txt"},
-
 
 
 
