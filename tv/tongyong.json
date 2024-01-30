@@ -71,8 +71,24 @@
 
 {"key": "csp_beijihu","name": "🚀极狐","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/","jar": "./jar/zss.jar"},
 
-]},
-
+{
+      "key": "ext_live_protocol",
+      "name": "导航 http://饭太硬.top",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0,
+      "changeable": 0
+    },
+    {
+      "key": "cc",
+      "name": "请勿相信视频中任何广告",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 0,
+      "quickSearch": 0
+    }
+  ],
 
 
 
