@@ -81,7 +81,7 @@
 {"key":"csp_五五","name":"🚀五五","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./lib/55.json","jar": "./jar/2024hys.txt"},
 
 {"key": "csp_beijihu","name": "🚀极狐","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.kuin.one/api.php/app/","jar": "./jar/zss.jar"},
-
+]
 
   "parses": [
     {
