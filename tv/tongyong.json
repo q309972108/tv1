@@ -14,17 +14,19 @@
 "sites": [
 {"key": "AppYs_南瓜","name": "🚀呕吼","jar": "./jar/fix24117.jar","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 
-{"key":"csp_XBPQ_jukankan","name":"🚀看剧","jar": "./jar/2024hys.txt","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"简介\":\"简介：&&</span>\",\"主演\":\"主演：&&</p>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"stui-vodlist__head&&</div>\",\"线路标题\":\"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://jukankan.cc/vodtype/{cateId}-{catePg}.html\"}"},
-
 {"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
 {"key":"影视三","name":"🚀巧技b","jar":"./jar/qj.jar","type":3,"api":"csp_Movie2","ext":"./lib/movie3"},
+
+{"key": "csp_七新影视","name": "🚀七新","jar":"./jar/1228.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.51.37.23/man/xbpq/七新.json"},
 
 {"key": "Kuaikan","name": "🚀快看","jar":"./jar/yydf.txt","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
 
 {"key": "双黄","name": "🚀双黄","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","type": 3,"api": "csp_XBPQ","ext": {"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4","请求头": "手机#Referer$https://www.dandanju.cc/","分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li","搜索模式": "1","搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html","搜索数组": "<li class=\"active clearfix&&</li"}},
 
 {"key": "看看","name": "🚀看看","jar": "./jar/fix24117.jar","type": 3,"api": "csp_KanKan","searchable": 1,"quickSearch": 1,"filterable": 0},  
+
+{"key":"csp_XBPQ_jukankan","name":"🚀看剧","jar": "./jar/2024hys.txt","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"简介\":\"简介：&&</span>\",\"主演\":\"主演：&&</p>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"stui-vodlist__head&&</div>\",\"线路标题\":\"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://jukankan.cc/vodtype/{cateId}-{catePg}.html\"}"},
 
 {"key":"天天","name":"🚀天天","jar": "./jar/fix24117.jar","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
 
