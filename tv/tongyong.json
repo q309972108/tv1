@@ -20,7 +20,13 @@
 
 {"key":"影视三","name":"🚀巧技b","jar":"./jar/qj.jar","type":3,"api":"csp_Movie2","ext":"./lib/movie3"},
 
+{"key": "Kuaikan","name": "🚀快看","jar":"./jar/yydf.txt","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+
 {"key": "双黄","name": "🚀双黄","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","type": 3,"api": "csp_XBPQ","ext": {"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4","请求头": "手机#Referer$https://www.dandanju.cc/","分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li","搜索模式": "1","搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html","搜索数组": "<li class=\"active clearfix&&</li"}},
+
+{"key": "看看","name": "🚀看看","jar": "./jar/fix24117.jar","type": 3,"api": "csp_KanKan","searchable": 1,"quickSearch": 1,"filterable": 0},  
+
+{"key":"天天","name":"🚀天天","jar": "./jar/fix24117.jar","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
 
 {"key": "嘿嘿","name": "🚀嘿嘿","type": 3,"api": "csp_AppMao","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvE6sExbcBEGIRZVnQTs7Kyyk1SScOZ8j/C1ATO/eqjASKwdHWA2zQtjGMwVDA+Ttluew9LCZzZnFyFNWEAlX0KjLdiSaX+NDNVdVG1JjEvnt3n7STfbcZ8C5QA+hYk60bwQH58e7eO7msRAJ0ZbmFDDly40NBDxuYsAq8lZuJzVkw0ZkMhqBM9YRPP8mMU/CJYsuBptunppHVQfFQjk8wxXjVRsNe75CuoY+zt9w+Smcm9PL37bGJHS6+1cFg1xMgqVxqvyPfuq5Dvyo1q66Q1NXwhDe4x21KVg4iRMET6Z3Jna25wcmku6xbznbFxlZqH3DqtpBKXLcNrx6n6vgn+/lHRmp5g13bG1xc/jwO78tZL0Pei6A==","jar": "./jar/fan.txt"},
 
@@ -43,12 +49,6 @@
 {"key": "ZYJK","name": "🚀八戒","type": 1,"api": "http://film.benmx.com/api.php/tvbox","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/0.txt"}, 
 
 {"key": "csp_SP33","name": "🚀三三","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 0,"jar": "./jar/fan.txt"},
-
-{"key": "腾讯","name": "🚀企鹅","type": 3,"api": "./lib/drpy2.min.js","ext": "./lib/tengxun.js","jar": "./jar/fix24117.jar"},
-
-{"key": "看看","name": "🚀看看","type": 3,"api": "csp_KanKan","searchable": 1,"quickSearch": 1,"filterable": 0,"jar": "./jar/fix24117.jar"},  
-
-{"key":"天天","name":"🚀天天","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn","jar": "./jar/fix24117.jar"},
 
 {"key": "csp_appys_影探","name": "🚀影探","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://vip11.lyyytv.cn/api.php/app/","jar": "./jar/yt.jar"},
 
