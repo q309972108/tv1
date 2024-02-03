@@ -14,6 +14,22 @@
 "sites": [
 {"key": "AppYs_南瓜","name": "🚀呕吼","jar": "./jar/fix24117.jar","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 
+{"key": "huahai","name": "🚀荐片","type": 3,"api": "csp_Jianpian","jar": "http://www.wya6.cn/tz/wyok.php","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": {"danmu": true}},
+
+{"key": "csp_JianPian","name": "🚀荐片2","jar": "http://www.wya6.cn/tz/wyog1.php","type": 3,"api": "csp_JianPian","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ownjpykxttjzuhy.jiesiwa.com"},
+
+{"key": "小柚","name": "🚀小柚","jar": "./jar/fan.txt","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrsp7JoZYCZdLEy9R9ri6ykNdUNSIsT3IgxCP9qyzByO7ZG6Z030vgWoyXGNlCJx9KFpYXtyZ3B/cLTtO0SAclaw3AOm0fS9oLx2taGF6hg=="},
+
+{"key": "虾米","name": "🚀虾米","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1706895639008/fan.txt;md5;63f50337d37d87c6a3b61d81375fc378","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjDcUxPqpfNr0QF4QvEpcoxKcUNBoRVVzBHqOfpkA5VEYja8i7L1QiBr6ixEmPkP2aK1XQgkmQ3SSI/WJ5jbQVYRs7Cng/dOT5B0SQfmaM+Cvura286dkutfmEtkpirrn+WbYckToZ18BRL6wHzHUlfZu7qvBwBZsBVKDIVLg3t4KEb4w=="},
+
+{"key": "4KHDR","name": "🚀世界","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;d65490382102d8e7d3bdbde44ca602f5","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 0,"api": "https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext": "https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
+
+{"key": "电影","name": "🚀电影","jar": "./jar/fan.txt","type": 3,"api": "csp_AppSK","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "FbjPcVZY48PN/RIZ5QqOrspkJ4ZHF98MCHVX87i5y01XUNSIsT3IgxCP9qyzByO7aWmK03MmmHYwQmNlCJx9KFpYWNSc3hbeLTlD3SAclaw3AOnn"},
+
+{"key": "横版影院","name": "🚀短剧1","jar": "http://www.wya6.cn/tz/wyog1.php","type": 1,"api": "https://cj.lzcaiji.com/api.php/provide/vod/from/liangzi/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["短剧"]},
+
+{ "key": "csp_AppYsV2_Mxone", "name": "🚀短剧2", "type": 3, "api": "csp_AppYsV2", "searchable": 1, "quickSearch": 1, "filterable": 1, "ext": "https://www.kuin.one/api.php/app/", "jar": "http://tv.nxog.top/m/jar.php?id=ou;md5;550a6ae1d050d7f8b1bf3b715d1f5277"},
+
 {"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
 {"key":"影视三","name":"🚀巧技b","jar":"./jar/qj.jar","type":3,"api":"csp_Movie2","ext":"./lib/movie3"},
@@ -23,6 +39,8 @@
 {"key": "新视觉","name": "🚀视觉","jar":"./jar/1228.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.51.37.23/man/xbpq/视觉.json"},
 
 {"key": "Kuaikan","name": "🚀快看","jar":"./jar/yydf.txt","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
+
+{"key": "csp_77","name": "🚀七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
 
 {"key": "双黄","name": "🚀双黄","jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","type": 3,"api": "csp_XBPQ","ext": {"嗅探词": "v3.toutiaovod.com#v3-dy-o.zjcdn#.m3u8#/tos/#.mp4","请求头": "手机#Referer$https://www.dandanju.cc/","分类url": "https://www.dandanju.cc/show/{cateId}--------{catePg}---2023.html","分类": "电影$1#剧集$2#动漫$4#综艺$4","数组": " <li class=\"col-md-6 col-sm-4 col-xs-3&&</li","搜索模式": "1","搜索url": "https://www.dandanju.cc/search/{wd}----------1---.html","搜索数组": "<li class=\"active clearfix&&</li"}},
 
@@ -49,6 +67,10 @@
 {"key":"南瓜影视","name":"🚀南瓜","type":3,"api":"http://v.nxog.top/js/nxog.js","ext":"http://v.nxog.top/js/11.js","jar": "./jar/fix24117.jar"}, 
 
 {"key": "黑狐","name": "🚀黑狐","type": 3,"searchable": 1,"quickSearch": 1,"changeable": 1,"jar": "https://fs-im-kefu.7moor-fs1.com/29397395/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1704761840381/c (1).txt;md5;bb155c3f0133bbce4756ad52003f5968","playerType": "2","api": "csp_XBPQ","ext": {"站名": "黑狐影院","主页url": "http://fagmn.com","数组": "class=\"stui-vodlist__box\"&&</a","图片": "data-original=\"&&\"","标题": "title=\"&&\"","链接": "href=\"&&\"","嗅探词": ".m3u8?#v3.huoshanvod.com#.m3u8#v3-dy-o.zjcdn#sf16-sg.larksuitecdn.com#v.kd1.qq.com#.mp4","过滤词": "/hls/#php","副标题": "<span class=\"pic-text text-right\">&&</span>","搜索url": "http://fagmn.com/search.php;post;searchword={wd}","搜索模式": "1","搜索数组": "<a class=\"v-thumb stui-vodlist__thumb&&</a>","搜索图片": "data-original=\"&&\"","搜索标题": "title=\"&&\"","搜索链接": "href=\"&&\"","搜索副标题": "<span class=\"pic-text text-right\">&&</span>","搜索后缀": "/view/","线路数组": "href=\"#down&&/a>[替换:奇异视频>>黑狐一线#优酷视频>>黑狐二线#搜狐视频>>黑狐三线#咪咕视频>>黑狐四线]","线路标题": ">&&<","播放数组": "class=\"stui-content__playlist clearfix&&</ul>","状态": "地区：&&</p>","导演": "导演：&&</p>","主演": "主演：&&</p>","简介": "简介：&&</div>","播放列表": "<a&&/a>","播放标题": ">&&<","播放链接": "href=\"&&\"","免嗅": "0","分类": "电影$1#电视剧$2#动漫$3#综艺$4","分类url": "http://fagmn.com/list/{cateId}_{catePg}.html?order=time"}},
+
+{"key":"csp_AppMr","name":"🚀明明","jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key": "陌陌","name": "🚀陌陌","jar": "https://download.kstore.space/download/2863/custom_spider.jar;md5;18b8df1e0f7813098c1e70979a264aad","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://www.kuin.one/api.php/app/"},
 
 {"key": "ZYJK","name": "🚀八戒","type": 1,"api": "http://film.benmx.com/api.php/tvbox","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "./jar/0.txt"}, 
 
