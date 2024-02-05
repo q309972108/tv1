@@ -22,6 +22,10 @@
 
 {"key": "csp_七新影视","name": "🚀七新","jar":"./jar/1228.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.51.37.23/man/xbpq/七新.json"},
 
+{"key":"csp_CandyMuj_taoju","name":"🚀淘剧","jar":"./jar/candymuj.jar","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
+
+{"key":"csp_CandyMuj_dmxq","name":"🚀极速","jar":"./jar/candymuj.jar","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1"},
+
 {"key": "新视觉","name": "🚀视觉","jar":"./jar/1228.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.51.37.23/man/xbpq/视觉.json"},
 
 {"key": "Kuaikan","name": "🚀快看","jar":"./jar/yydf.txt","type": 3,"api": "csp_Kuaikan","searchable": 1,"quickSearch": 1,"filterable": 1},
