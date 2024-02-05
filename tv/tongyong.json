@@ -22,9 +22,15 @@
 
 {"key": "csp_七新影视","name": "🚀七新","jar":"./jar/1228.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.51.37.23/man/xbpq/七新.json"},
 
+{"key":"csp_XYQH_万能影视","name":"🚀万能","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XYQH/万能影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"},
+
+{"key":"csp_XBPQ_app","name":"🚀影院","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/app影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/XBPQ2.jar;md5;6e12873c628020196fe9400d1ef51f1c"},
+
+{"key":"csp_XBPQ_胖虎影视","name":"🚀胖虎","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/XBPQ/胖虎影视.json","jar":"https://mirror.ghproxy.com/https://raw.githubusercontent.com/tuji-2015/miao/main/TVBox/jar/XBPQ2.jar;md5;6e12873c628020196fe9400d1ef51f1c"},
+
 {"key":"csp_CandyMuj_taoju","name":"🚀淘剧","jar":"./jar/candymuj.jar","type":3,"api":"csp_CandyMuj_taoju","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"csp_CandyMuj_dmxq","name":"🚀极速","jar":"./jar/candymuj.jar","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1"},
+{"key":"csp_CandyMuj_dmxq","name":"🚀极速","jar":"./jar/candymuj.jar","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1},
 
 {"key": "新视觉","name": "🚀视觉","jar":"./jar/1228.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.51.37.23/man/xbpq/视觉.json"},
 
