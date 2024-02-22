@@ -12,6 +12,11 @@
   ],
  
 "sites": [
+
+{"key": "Buleitv","name": "💯布蕾┃App","type": 3,"api": "csp_Buleitv","searchable": 1,"changeable":0,"jar":"https://pan.shangui.cc/f/30p1JIv/yt.jar"},
+{"key": "Yingtantv","name": "💯影探┃App","type": 3,"api": "csp_Yingtantv2","searchable": 1,"changeable":0,"jar":"https://pan.shangui.cc/f/30pJIv/yt.jar"},
+{"key": "Zhuiyitv","name": "💯追忆┃App","type": 3,"api": "csp_Zhuiyitv","searchable": 1,"changeable":0,"jar":"https://pan.shangui.cc/f/30pJIv/yt.jar"},
+
 {"key": "AppYs_南瓜","name": "🚀呕吼","jar": "./jar/fix24117.jar","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 
 {"key": "csp_77","name": "🚀七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
