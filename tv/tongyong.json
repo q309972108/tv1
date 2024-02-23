@@ -18,7 +18,9 @@
 
 {"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
- {"key": "极光","name": "🚀极光","jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b","type": 3,"api": "csp_Skapp","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"},
+{"key": "极光","name": "🚀极光","jar": "http://www.yingm.cc/phoneBoxLocal/fix12210.jar;md5;b5db162cada6e448bc82d9ec0cb34a8b","type": 3,"api": "csp_Skapp","playerType": 2,"ext": "https://jihulab.com/qiaoji/open/-/raw/main/jiguang"},
+
+{"key": "COKEMV影院","name": "🚀可乐","jar": "https://gitee.com/dongchenys/liu/raw/master/jar/dongchen.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/dongchenys/liu/raw/master/json/cokemv.json"},
 
 {"key":"影视三","name":"🚀巧技b","jar":"./jar/qj.jar","type":3,"api":"csp_Movie2","ext":"./lib/movie3"},
 
