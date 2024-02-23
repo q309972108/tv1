@@ -18,6 +18,8 @@
 
 {"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
+{"key": "drpy_js_西瓜影视","name": "🚀西瓜","jar":"./jar/ff.jar","type": 3,"api": "./lib/drpy2.min.js","ext": "./js/西瓜影视.js"},
+
 {"key":"影视三","name":"🚀巧技b","jar":"./jar/qj.jar","type":3,"api":"csp_Movie2","ext":"./lib/movie3"},
 
 {"key": "csp_七新影视","name": "🚀七新","jar":"./jar/1228.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.51.37.23/man/xbpq/七新.json"},
