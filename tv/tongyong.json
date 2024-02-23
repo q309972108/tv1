@@ -22,6 +22,8 @@
 
 {"key": "COKEMV影院","name": "🚀可乐","jar": "https://gitee.com/dongchenys/liu/raw/master/jar/dongchen.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/dongchenys/liu/raw/master/json/cokemv.json"},
 
+{"key": "XAL蓝光","name": "🚀蓝光","jar": "http://www.wya6.cn/tz/wyz.php;md5;6695b4fe705a1eedcae352abe5412640","type": 1,"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable": 1,"quickSearch": 1},
+
 {"key":"影视三","name":"🚀巧技b","jar":"./jar/qj.jar","type":3,"api":"csp_Movie2","ext":"./lib/movie3"},
 
 {"key": "csp_七新影视","name": "🚀七新","jar":"./jar/1228.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://122.51.37.23/man/xbpq/七新.json"},
