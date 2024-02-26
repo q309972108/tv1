@@ -14,11 +14,11 @@
 "sites": [
 {"key": "AppYs_南瓜","name": "🚀呕吼","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 
-{"key": "映迷","name": "🚀映迷","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7","type": 1,"api": "https://www.inmi.app/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
+{"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
 {"key": "csp_77","name": "🚀七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
 
-{"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
+{"key": "csp_JianPian","name": "🚀荐片","type": 3,"api": "csp_JianPian","jar": "http://www.wya6.cn/tz/wyog1.php","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ownjpykxttjzuhy.jiesiwa.com"},
 
 {"key": "csp_XYQHiker_奇趣影院","name": "🚀奇趣","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://pan.shangui.cc/f/0D48hj/%E5%A5%87%E8%B6%A3%E5%BD%B1%E8%A7%86.json","jar": "https://pan.shangui.cc/f/d5vLfo/xyq723.jar;md5;431809c4e972554e50c3ffeddf177344"},
 
@@ -27,6 +27,8 @@
 {"key": "COKEMV影院","name": "🚀可乐","jar": "https://gitee.com/dongchenys/liu/raw/master/jar/dongchen.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://gitee.com/dongchenys/liu/raw/master/json/cokemv.json"},
 
 {"key": "XAL蓝光","name": "🚀蓝光","jar": "http://www.wya6.cn/tz/wyz.php;md5;6695b4fe705a1eedcae352abe5412640","type": 1,"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable": 1,"quickSearch": 1},
+
+{"key": "映迷","name": "🚀映迷","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7","type": 1,"api": "https://www.inmi.app/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 
 {"key": "csp_苹果","name": "🚀苹果","jar": "https://tv.youdu.fan:666/荷城茶秀/spider.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.youdu.fan:666/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/%E8%8B%B9%E6%9E%9C%E5%BD%B1%E8%A7%86.json"},
 
