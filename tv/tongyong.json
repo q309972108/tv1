@@ -26,7 +26,7 @@
 
 {"key":"csp_XBPQ_jukankan","name":"🚀看剧","jar": "./jar/2024hys.txt","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"简介\":\"简介：&&</span>\",\"主演\":\"主演：&&</p>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"stui-vodlist__head&&</div>\",\"线路标题\":\"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://jukankan.cc/vodtype/{cateId}-{catePg}.html\"}"},
 
-{"key": "csp_明帝1","name": "🚀明帝","jar": "./jar/xm818.jar","type": 3,"api": "csp_XBPQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./json/明帝影视.json"},
+{"key": "csp_明帝1","name": "🚀明帝","jar": "./jar/xm818.jar","type": 3,"api": "csp_XBPQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://43.155.64.249/TVbox/lib/%E6%98%8E%E5%B8%9D%E5%BD%B1%E8%A7%86.json"},
 
 {"key": "csp_AppMr","name": "🚀明明","jar": "./jar/0606.jar","type": 3,"api": "csp_AppMr","searchable": 1,"quickSearch": 1,"filterable": 1},
 
