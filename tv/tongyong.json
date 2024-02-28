@@ -16,6 +16,8 @@
 
 {"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
+{"key": "酷看","name": "🚀酷看","jar": "./jar/Yoursmile.jar","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
+
 {"key": "追剧","name": "🚀追剧","jar": "./jar/fix24225.jar","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://app.kzjtv.com"},
 
 {"key": "csp_77","name": "🚀七七","type": 3,"api": "csp_Kunyu77","searchable": 1,"quickSearch": 1,"filterable": 1,"jar": "https://agit.ai/Yoursmile7/TVBox/raw/branch/master/Yoursmile.jar"},
