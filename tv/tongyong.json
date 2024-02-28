@@ -16,8 +16,6 @@
 
 {"key": "csp_JianPian","name": "🚀荐片","type": 3,"api": "csp_JianPian","jar": "http://www.wya6.cn/tz/wyog1.php","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ownjpykxttjzuhy.jiesiwa.com"},
 
-{"key": "酷看","name": "🚀酷看","jar": "./jar/Yoursmile.jar","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
-
 {"key": "追剧","name": "🚀追剧","jar": "./jar/fix24225.jar","type": 3,"api": "csp_TTian","playerType": 2,"ext": "http://app.kzjtv.com"},
 
 {"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
@@ -35,8 +33,6 @@
 {"key": "csp_苹果","name": "🚀苹果","jar": "https://tv.youdu.fan:666/荷城茶秀/spider.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://tv.youdu.fan:666/%E8%8D%B7%E5%9F%8E%E8%8C%B6%E7%A7%80/json/%E8%8B%B9%E6%9E%9C%E5%BD%B1%E8%A7%86.json"},
 
 {"key":"csp_CandyMuj_dmxq","name":"🚀极速","jar":"./jar/candymuj.jar","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1},
-
-{"key":"天天","name":"🚀天天","jar": "./jar/fix24117.jar","type":3,"api":"csp_TTian","playerType":2,"ext":"http://op.ysdqjs.cn"},
 
 {"key":"影视五","name":"🚀巧技","type":3,"api":"csp_Movie2","ext":"./lib/movie5","jar":"./jar/qj.jar"},
 
