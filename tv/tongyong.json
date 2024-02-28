@@ -103,7 +103,6 @@
       "type": 2,
       "url": "Sequence"
     },
-
     {"name":"自动解析","type":3,"url":"Demo"},
 //{"name":"解析轮询","type":2,"url":"Sequence"},
 //{"name":"Json并发","type":2,"url":"Parallel"},
@@ -126,7 +125,7 @@
 {"name": "json","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
 //{"name": "xmflv","type": 0,"url": "https://jx.xmflv.com/?url="},
 {"name": "yemu","type": 0,"url": "https://www.yemu.xyz/?url="}, 
-{"name": "ckmov","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="}],
+{"name": "ckmov","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
     {
       "name": "巧技",
       "type": 1,
