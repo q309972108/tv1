@@ -80,9 +80,7 @@
                                                              "api":"./js/lib/drpy2.min.js",
                                                                   "ext":"./js/tengxun.js"
                                       }
-                                      }
-    }
-}
+
 ],
 
 "parses": [
