@@ -13,17 +13,17 @@
  
 
 "sites": [
-{"key": "AppYs_南瓜","name": "🚀呕吼","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
+{"key": "360","name": "🚀呕吼","jar": "./jar/Yoursmile.jar","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
 
-{"key":"爱奇异","name":"🐼爱奇艺","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/aiqiyi.js"},
+{"key":"爱奇异","name":"🐼爱奇艺","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
 
-{"key":"芒果","name":"🐼芒果","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/mangguo.js"},
+{"key":"芒果","name":"🐼芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
 
-{"key":"优酷","name":"🐼优酷","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/youku.js"},
+{"key":"优酷","name":"🐼优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
 
-{"key":"腾讯","name":"🐼腾讯","type":3,"api":"./js/lib/drpy2.min.js","ext":"./js/tengxun.js"},
+{"key":"腾讯","name":"🐼腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
 
-{"key": "360","name": "🐼360","jar": "./jar/Yoursmile.jar","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
+{"key": "AppYs_南瓜","name": "🚀南瓜","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 
 {"key": "csp_明帝1","name": "🚀明帝","jar": "./jar/xm818.jar","type": 3,"api": "csp_XBPQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/明帝影视.json"},
 
