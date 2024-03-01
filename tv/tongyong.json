@@ -101,6 +101,16 @@
     {
             "name": "线路2",
             "type": 0,
+            "url": "https://jx.xmflv.com/?url=",
+            "ext": {
+                "header": {
+                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
+                }
+            }
+        },
+    {
+            "name": "线路3",
+            "type": 0,
             "url": "https://www.yemu.xyz/?url=",
             "ext": {
                 "flag": [
@@ -125,16 +135,7 @@
                 ]
             }
         },
-{
-            "name": "线路3",
-            "type": 0,
-            "url": "https://jx.xmflv.com/?url=",
-            "ext": {
-                "header": {
-                    "user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"
-                }
-            }
-        },
+
         {
             "name": "线路4",
             "type": 0,
