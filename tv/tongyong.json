@@ -96,8 +96,8 @@
     {
       "name": "解析2",
       "type": 0,
-      "url": "https://jx.jsonplayer.com/player/?url="
-            "ext": {
+      "url": "https://jx.jsonplayer.com/player/?url=",
+        "ext": {
         "flag": [
           "qq",
           "腾讯",
@@ -498,18 +498,7 @@
         }
       }
     },
-     {
-      "name": "海外看",
-      "hosts": [
-        "haiwaikan"
-      ],
-      "regex": [
-        "8.1748",
-        "10.0099",
-        "10.3333",
-        "16.0599"
-      ]
-    },
+
 
     {"name": "vip嗅探", "type": 0, "url": "https://vip.lianfaka.com/vip/?url=", "ext": {"flag": ["qq", "腾讯", "qiyi", "爱奇艺", "奇艺", "youku", "优酷", "mgtv", "芒
 果", "imgo", "letv", "乐视", "pptv", "PPTV", "sohu", "bilibili", "哔哩哔哩", "哔哩"], "header": {"User-Agent": "okhttp/4.1.0"}}}, 
