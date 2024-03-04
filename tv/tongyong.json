@@ -64,7 +64,11 @@
 
 
 "parses": [
-    {"name": "线路1",
+    {"name": "线路1","type": 0,"url": "http://42.157.129.139:7788/json/aiku.php?url="},
+    {"name": "线路2","type": 0,"url": "https://jx.jsonplayer.com/player/?url="},
+    {"name": "线路3","type": 0,"url": "https://jx.xyflv.cc/?url="},
+    {"name": "线路4","type": 0,"url": "https://jx.777jiexi.com/player/?next="},
+    {"name": "线路5",
       "type": 1,
       "url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=",
       "ext": {
@@ -99,7 +103,7 @@
       }
     },
     {
-            "name": "线路2",
+            "name": "线路6",
             "type": 0,
             "url": "https://jx.xmflv.com/?url=",
             "ext": {
@@ -109,7 +113,7 @@
             }
         },
     {
-            "name": "线路3",
+            "name": "线路7",
             "type": 0,
             "url": "https://www.yemu.xyz/?url=",
             "ext": {
@@ -137,12 +141,12 @@
         },
 
         {
-            "name": "线路4",
+            "name": "线路8",
             "type": 0,
             "url": "https://jx.m3u8.tv/jiexi/?url="
         },
  {
-            "name": "线路5",
+            "name": "线路9",
             "type": 0,
             "url": "https://www.ckplayer.vip/jiexi/?url="
         },
