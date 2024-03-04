@@ -25,6 +25,8 @@
 
 {"key": "AppYs_南瓜","name": "🚀南瓜","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 
+{"key": "酷看","name": "🚀酷看","jar": "./jar/kukan.txt","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
+
 {"key": "六度TV","name": "🚀六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js","jar": "./jar/fix24117.jar"},
 
 {"key": "csp_JianPian","name": "🚀荐片","type": 3,"api": "csp_JianPian","jar": "http://www.wya6.cn/tz/wyog1.php","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ownjpykxttjzuhy.jiesiwa.com"},
