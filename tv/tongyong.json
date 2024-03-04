@@ -35,6 +35,8 @@
 
 {"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
+{"key": "咕噜","name": "🚀咕噜","jar": "http://www.wya6.cn/tz/wyog.php","type": 3,"api": "csp_Movie2","ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json"},
+
 {"key": "鑫鑫[V2]","name": "🚀鑫鑫","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","type": 3,"api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js"},
 
 {"key":"csp_XBPQ_jukankan","name":"🚀看剧","jar": "./jar/2024hys.txt","type":3,"api":"csp_XBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"{\"简介\":\"简介：&&</span>\",\"主演\":\"主演：&&</p>\",\"副标题\":\"class=\\\"pic-text text-right\\\">&&</span>\",\"线路数组\":\"stui-vodlist__head&&</div>\",\"线路标题\":\"<h3>&&</h3>\",\"播放数组\":\"class=\\\"stui-content__playlist clearfix&&</ul>\",\"分类\":\"电影$1#电视剧$2#综艺$3#动漫$4\",\"分类url\":\"https://jukankan.cc/vodtype/{cateId}-{catePg}.html\"}"},
