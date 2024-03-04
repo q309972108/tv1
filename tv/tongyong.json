@@ -25,7 +25,7 @@
 
 {"key": "AppYs_南瓜","name": "🚀南瓜","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 
-{"key": "csp_明帝1","name": "🚀明帝","jar": "./jar/xm818.jar","type": 3,"api": "csp_XBPQ","playerType":2,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/明帝影视.json"},
+{"key": "六度TV","name": "🚀六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js","jar": "./jar/fix24117.jar"},
 
 {"key": "csp_JianPian","name": "🚀荐片","type": 3,"api": "csp_JianPian","jar": "http://www.wya6.cn/tz/wyog1.php","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ownjpykxttjzuhy.jiesiwa.com"},
 
@@ -55,9 +55,7 @@
 
 {"key": "csp_蛋蛋",  "name": "🚀蛋蛋", "type": 3,"api": "csp_XBPQ","jar": "./jar/HeChengChaXiu1.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/蛋蛋.json" },
 
-{"key": "云播","name": "🚀云播","jar": "./jar/Yoursmile.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"影片类型": "分类：&&主演","导演": "导演：</span>&&</p>","主演": "主演：</span>&&</p>","简介": "class=\"sketch content\">&&</span>","数组": "myui-vodlist__thumb&&</a>","标题": "title=\"&&\"","副标题": "pic-tag pic-tag-top\">&&</span>","图片": "data-original=\"&&\"","链接": "href=\"&&\"","搜索模式": "1","搜索url": "http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取": "\"list\":[&&]","搜索数组": "{&&}","搜索标题": "\"name\":\"&&\"","搜索图片": "\"pic\":\"&&\"","搜索链接": "http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html","嗅探词": ".m3u8#mp4","线路数组": "</a><h3&&/h3>","线路标题": "title\">&&<","播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>","播放标题": ">&&<","播放列表": "<a&&/a>","分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}},
-
-{"key": "六度TV","name": "🚀六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js","jar": "./jar/fix24117.jar"}
+{"key": "云播","name": "🚀云播","jar": "./jar/Yoursmile.jar","type": 3,"api": "csp_XBPQ","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1,"ext": {"影片类型": "分类：&&主演","导演": "导演：</span>&&</p>","主演": "主演：</span>&&</p>","简介": "class=\"sketch content\">&&</span>","数组": "myui-vodlist__thumb&&</a>","标题": "title=\"&&\"","副标题": "pic-tag pic-tag-top\">&&</span>","图片": "data-original=\"&&\"","链接": "href=\"&&\"","搜索模式": "1","搜索url": "http://www.hktvyun.com/index.php/ajax/suggest?mid=1&wd={wd}&limit=500","搜索二次截取": "\"list\":[&&]","搜索数组": "{&&}","搜索标题": "\"name\":\"&&\"","搜索图片": "\"pic\":\"&&\"","搜索链接": "http://www.hktvyun.com/vod/detail/id/+\"id\":&&,+html","嗅探词": ".m3u8#mp4","线路数组": "</a><h3&&/h3>","线路标题": "title\">&&<","播放数组": "<ul class=\"myui-content__list scrollbar&&</ul>","播放标题": ">&&<","播放列表": "<a&&/a>","分类url": "http://www.hktvyun.com/vod/show/area/{area}/by/{by}/class/{class}/id/{cateId}/lang/{lang}/page/{catePg}/year/{year}.html;;a","分类": "电影$1#电视剧$2#综艺$3#动漫$4"}}
 
 
 ],
