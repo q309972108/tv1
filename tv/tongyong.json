@@ -28,6 +28,8 @@
 {"key": "酷酷","name": "🚀酷酷","jar": "./jar/0606hh.jar","type": 3,"api": "csp_AppYsV2",
       "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"changeable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/","categories": ["电影","电视剧","综艺","动漫"]},
 
+{"key":"csp_XYQH_电波","name":"🚀电波","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/8K影视.json","jar":"./jar/xyqh.jar"},
+
 {"key": "360","name": "🐼360","jar": "./jar/Yoursmile.jar","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
 
 {"key":"爱奇异","name":"🐼爱奇艺","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/aiqiyi.js"},
