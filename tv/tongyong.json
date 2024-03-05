@@ -31,13 +31,19 @@
 
 {"key": "K影","name": "🚀影院","type": 1,"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable": 1,"quickSearch": 1},
 
+{"key": "天天","name": "🚀天天","jar": "./jar/zuiju.jar","type": 3,"api": "csp_TTian","ext": "http://op.ysdqjs.cn"},
+
+{"key": "酷影视","name": "🚀酷影","jar": "./jar/zuiju.jar","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
+
+{"key": "咕噜","name": "🚀咕噜","jar": "http://www.wya6.cn/tz/wyog.php","type": 3,"api": "csp_Movie2","ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json"},
+
 {"key": "六度TV","name": "🚀六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js","jar": "./jar/fix24117.jar"},
 
 {"key": "csp_JianPian","name": "🚀荐片","type": 3,"api": "csp_JianPian","jar": "http://www.wya6.cn/tz/wyog1.php","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ownjpykxttjzuhy.jiesiwa.com"},
 
-{"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
+{"key": "畅梦影视","name": "🚀畅梦","jar": "./jar/zuiju.jar","type": 3,"api": "./JS/cm.js","ext": "./JS/畅梦影视.js"},
 
-{"key": "咕噜","name": "🚀咕噜","jar": "http://www.wya6.cn/tz/wyog.php","type": 3,"api": "csp_Movie2","ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json"},
+{"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
 {"key": "鑫鑫[V2]","name": "🚀鑫鑫","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/gd5ic01b6d4922692401eac6018178d033d06","type": 3,"api": "https://agit.ai/dxawi/ray/raw/branch/master/JS/lib/drpy2.min.js","ext": "https://agit.ai/dxawi/ray/raw/branch/master/JS/js/鑫鑫[V2].js"},
 
@@ -78,6 +84,10 @@
     {"name": "线路7","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
     {"name": "线路8","type": 0,"url": "http://42.157.129.139:7788/json/aiku.php?url="},
     {"name": "线路9","type": 0,"url": "https://jx.777jiexi.com/player/?next="},
+    {"name": "线路10","type": 0,"url": "https://jx.yparse.com/index.php?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Linux; Android 13; V2049A Build/TP1A.220624.014; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/116.0.0.0 Mobile Safari/537.36"}}},
+    {"name": "线路11","type": 0,"url": "https://www.ckplayer.vip/jiexi/?url="},
+
+
 
         {
       "name": "解析聚合",
