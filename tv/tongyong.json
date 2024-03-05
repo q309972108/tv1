@@ -48,7 +48,7 @@
 
 {"key": "csp_JianPian","name": "🚀荐片","type": 3,"api": "csp_JianPian","jar": "http://www.wya6.cn/tz/wyog1.php","playerType": 1,"searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ownjpykxttjzuhy.jiesiwa.com"},
 
-{"key": "畅梦影视","name": "🚀畅梦","jar": "./jar/zuiju.jar","type": 3,"api": "./JS/cm.js","ext": "./JS/畅梦影视.js"},
+{"key": "畅梦影视","name": "🚀畅梦","jar": "./jar/zuiju.jar","type": 3,"api": "./js/cm.js","ext": "./js/畅梦影视.js"},
 
 {"key": "csp_Nmys","name": "🚀农民","jar": "./jar/fan.txt","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"changeable": 1,"ext": "https://agit.ai/fantaiying/fty/raw/branch/master/ext/nmys.json"},
 
