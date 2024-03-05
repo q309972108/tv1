@@ -23,10 +23,7 @@
 
 {"key": "追剧","name": "🚀追剧","jar": "./jar/zuiju.jar","type": 3,"api": "csp_TTian","ext": "http://app.kzjtv.com"},
 
-{"key": "豪华直连","name": "🚀豪华","jar": "./jar/0606hh.jar","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"changeable": 1,"ext": "http://123.56.100.254:3552/api.php/app/"},
-
-{"key": "酷酷","name": "🚀酷酷","jar": "./jar/0606hh.jar","type": 3,"api": "csp_AppYsV2",
-      "searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"changeable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/","categories": ["电影","电视剧","综艺","动漫"]},
+{"key": "酷酷","name": "🚀酷酷","jar": "./jar/0606hh.jar","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"playerType": 2,"changeable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/","categories": ["电影","电视剧","综艺","动漫"]},
 
 {"key":"csp_XYQH_电波","name":"🚀电波","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/8K影视.json","jar":"./jar/xyqh.jar"},
 
