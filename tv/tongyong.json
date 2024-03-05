@@ -15,6 +15,12 @@
 "sites": [
 {"key": "酷看","name": "🚀呕吼","jar": "./jar/kukan.txt","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
 
+{"key": "咕噜","jar": "http://www.wya6.cn/tz/wyog.php","name": "🚀咕噜","type": 3,"api": "csp_Movie2","ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json"},
+
+{"key": "csp_Fangniu4k_MULTIJAR","jar": "./jar/wex.jar","name": "🚀放牛","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0},
+
+{"key": "K影","name": "🚀影院","type": 1,"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable": 1,"quickSearch": 1},
+
 {"key": "追剧","name": "🚀追剧","jar": "./jar/zuiju.jar","type": 3,"api": "csp_TTian","ext": "http://app.kzjtv.com"},
 
 {"key": "360","name": "🐼360","jar": "./jar/Yoursmile.jar","type": 3,"api": "csp_SP33","searchable": 1,"quickSearch": 1,"filterable": 1,"changeable": 1},
@@ -29,13 +35,9 @@
 
 {"key": "AppYs_南瓜","name": "🚀南瓜","jar": "https://files.zohopublic.com.cn/public/workdrive-public/download/uyv0t678c488189af47bb91dc108484d17431;md5;4a0dc0ae860c90d0001f1fc0fae230f7","type": 3,"playerType": 2,"api": "https://agit.ai/Yemaozhi123/yemao/raw/branch/master/lib/drpy2.min.js","changeable": 0,"searchable": 1,"quickSearch": 1,"ext": "https://gitcode.net/m0_73989217/ymz/-/raw/master/JS/%E5%8D%97%E7%93%9C.js"},
 
-{"key": "K影","name": "🚀影院","type": 1,"api": "http://vipcom.xn--654a.cc/api.php/provide/vod/","playUrl": "json:http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url=","searchable": 1,"quickSearch": 1},
-
 {"key": "天天","name": "🚀天天","jar": "./jar/zuiju.jar","type": 3,"api": "csp_TTian","ext": "http://op.ysdqjs.cn"},
 
 {"key": "酷影视","name": "🚀酷影","jar": "./jar/zuiju.jar","type": 3,"api": "csp_AppYsV2","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.tvkuys.xyz/api.php/app/"},
-
-{"key": "咕噜","name": "🚀咕噜","jar": "http://www.wya6.cn/tz/wyog.php","type": 3,"api": "csp_Movie2","ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json"},
 
 {"key": "六度TV","name": "🚀六度","type": 3,"api": "https://drpy.cainisi.cf/libs/drpy2.min.js","searchable": 1,"changeable": 1,"ext": "./lib/六度TV.js","jar": "./jar/fix24117.jar"},
 
@@ -61,7 +63,7 @@
 
 {"key": "csp_xml_量子资源","name": "🚀量子","type": 1,"api": "http://cj.lziapi.com/api.php/provide/vod/","playUrl": "","searchable": 1,"quickSearch": 1,"categories": ["国产动漫","国产剧","动作片","喜剧片","爱情片","动画片","冒险片","武侠片","科幻片","战争片","日韩剧","港台剧","欧美剧","泰国剧","海外剧","日韩动漫","欧美动漫","国内综艺","海外综艺","恐怖片","灾难片","悬疑片","纪录片","惊悚片","奇幻片","剧情片"],"jar": "./jar/fix24117.jar"},
 
-{"key": "csp_Fangniu4k_MULTIJAR","jar": "./jar/wex.jar","name": "🚀放牛","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0},
+{"key": "drjs_大师兄影视","jar": "./jar/wex.jar","name": "🚀师兄","type": 3,"api": "./libs/dsx.js","ext": "./JS/大师兄影视.js"},
 
 {"key": "csp_蛋蛋",  "name": "🚀蛋蛋", "type": 3,"api": "csp_XBPQ","jar": "./jar/HeChengChaXiu1.jar", "searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "./lib/蛋蛋.json" }
 ],
