@@ -29,7 +29,7 @@
 
 {"key":"csp_XYQH_电波","name":"🚀电波","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/8K影视.json","jar":"./jar/xyqh.jar"},
 
-{"key": "夜猫2","name": "🚀夜猫","jar": "https://cloud.lxweb.cn/f/wWMVf2/ymz.jar","type": 3,"playerType":1,"api": "https://notabug.org/ymz123/TVBOX/raw/master/Js/AppYsV2.js","ext": {"host": "http://110.42.7.101:1122/api.php/app/","*": ["https://api.52wyb.com/index/?url="]},"categories": ["电影"]},
+{"key": "夜猫2","name": "🚀夜猫","jar": "https://cloud.lxweb.cn/f/wWMVf2/ymz.jar","type": 3,"playerType":1,"api": "https://notabug.org/ymz123/TVBOX/raw/master/Js/AppYsV2.js","ext": {"host": "http://110.42.7.101:1122/api.php/app/","*": ["http://pan.qiaoji8.com/tvbox/neibu.php?url="]},"categories": ["电影"]},
 
 {"key": "dr_码上看尘落","name": "🚀落尘","jar": "./jar/fty1.jar","type": 3,"api": "./lib/11.js","searchable": 1, "playerType": 2, "quickSearch": 0,"filterable": 1,"ext": "./lib/尘落影视.js"},
 
