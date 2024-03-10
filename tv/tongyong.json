@@ -23,7 +23,7 @@
 
 {"key": "追剧","name": "🚀追剧","jar": "./jar/zuiju.jar","type": 3,"api": "csp_TTian","ext": "http://app.kzjtv.com"},
 
-{"key":"dr_ikanbot","name":"🚀爱看""jar": "./jar/HeChengChaXiu.jar","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
+{"key":"dr_ikanbot","name":"🚀爱看","jar": "./jar/HeChengChaXiu.jar","type":3,"api":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/libs/drpy2.min.js","searchable":2,"quickSearch":1,"filterable":0,"ext":"https://agit.ai/alanchaotang/dr_py/raw/branch/main/js/ikanbot3.js"},
 
 {"key": "初恋资源","name": "🚀初恋","jar": "http://rihou.vip:88/hccx/HeChengChaXiu.jar","type": 1,"api": "https://video.adminqt.cn/api.php/provide/vod/","searchable": 1,"quickSearch": 1},
 
