@@ -10,12 +10,12 @@
       "logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ],
- 
+ "spider": "./jar/fh.jar",
 
 "sites": [
-{"key": "酷看","name": "🚀呕吼","jar": "./jar/kukan.txt","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
+{"key": "酷看","name": "🚀呕吼","type": 3,"api": "csp_Kkys","searchable": 1,"quickSearch": 1,"changeable": 1},
 
-{"key": "咕噜","jar": "http://www.wya6.cn/tz/wyog.php","name": "🚀咕噜","type": 3,"api": "csp_Movie2","ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json"},
+{"key": "咕噜","name": "🚀咕噜","type": 3,"api": "csp_Movie2","ext": "https://raw.gitcode.com/wykj/ys/raw/main/json/Movie5.json"},
 
 {"key": "csp_Fangniu4k_MULTIJAR","jar": "./jar/wex.jar","name": "🚀放牛","type": 3,"api": "csp_Fangniu4k","searchable": 1,"changeable": 0},
 
@@ -67,7 +67,7 @@
 
 {"key":"csp_CandyMuj_dmxq","name":"🚀极速","jar":"./jar/candymuj.jar","type":3,"api":"csp_CandyMuj_dmxq","searchable":1,"quickSearch":1,"filterable":1},
 
-{"key":"影视五","name":"🚀巧技","type":3,"api":"csp_Movie2","ext":"./lib/movie5","jar":"./jar/qj.jar"},
+{"key":"影视五","name":"🚀巧技","type":3,"api":"csp_Movie2","ext":"./lib/movie5"},
 
 {"key": "csp_非凡资源","name": "🚀非凡","type": 1,"api": "http://cj.ffzyapi.com/api.php/provide/vod/","playurl": "json:http://jx.84jia.com/m3u8ts.php?url=","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"],"jar": "./jar/f.jar"},
 
