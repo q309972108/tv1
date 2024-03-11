@@ -37,7 +37,7 @@
 
 {"key":"芒果","name":"🐼芒果","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/mangguo.js"},
 
-{"key":"优酷","name":"🐼优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/youku.js"},
+{"key":"优酷","name":"🐼优酷","type":3,"api":"./lib/drpy2.min.js","ext":"./js/优酷.js"},
 
 {"key":"腾讯","name":"🐼腾讯","type":3,"api":"./lib/drpy2.min.js","ext":"./lib/tengxun.js"},
 
@@ -78,49 +78,7 @@
 
 
 "parses": [
-    {
-      "name": "超解析1",
-      "type": 1,
-      "url": "http://42.157.129.144:2323/CH/caihong_1993138546.php?url=",
-      "ext": {
-        "flag": [
-          "qq",
-          "腾讯",
-          "企鹅",
-          "IQiYi",
-          "qiyi",
-          "爱奇艺",
-          "奇艺",
-          "youku",
-          "YouKu",
-          "优酷",
-          "sohu",
-          "SoHu",
-          "搜狐",
-          "letv",
-          "LeShi",
-          "乐视",
-          "imgo",
-          "mgtv",
-          "MangGuo",
-          "芒果",
-          "SMD",
-          "YuMi",
-          "luanzi",
-          "AliS",
-          "dxzy",
-          "bilibili",
-          "QEYSS",
-          "xigua",
-          "西瓜视频",
-          "腾讯视频",
-          "奇艺视频",
-          "优酷视频",
-          "芒果视频",
-          "乐视视频"
-        ],"header": {"User-Agent": "okhttp/3.12.11"}}},
-        
-
+    
     {"name": "线路1","type": 1,"url": "http://pan.qiaoji8.com/tvbox/neibu.php?url=","ext": {"flag": ["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","tucheng","sohu","搜狐","letv","乐视","mgtv","芒果","tnmb","seven","yzm","aliyun","RJuMao","bilibili","1905","xinvip","XAL","qiqi","XALS","YuMi-vip"]}},
     {"name":"线路2","type":0,"url":"https://api.52wyb.com/index/?url=","ext":{"header":{"referer":"http://www.8hyyb.com/","User-Agent":"Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/14.0.835.163 Safari/535.1"},"flag":["qq","腾讯","qiyi","iqiyi","爱奇艺","奇艺","youku","优酷","mgtv","imgo","芒果"]}},
     {"name": "线路3","type": 0,"url": "https://jx.xmflv.com/?url=","ext": {"header": {"user-agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36 Edg/110.0.1587.57"}}},
